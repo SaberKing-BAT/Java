@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lyc.dao.GongZryMapper">
+    <!--查询数据条数counts-->
+    <select id="counts" resultType="long">
+        SELECT
+            count(1)
+        FROM
+            xfsq.gongzry
+    </select>
+
+    <!--查询所有selectAll-->
+    <select id="selectAll" resultType="gongZry">
+        SELECT * FROM xfsq.gongzry
+    </select>
+    <!--查询条件findIf-->
+    <select id="findIf" parameterType="gongZry"  resultType="gongZry">
+        SELECT
+        *
+        FROM
+        xfsq.gongzry
+        <where>
+            <if test="gid!=null and gid!=0" > gid=#{gid}</if>
+            <if test="gname!=null" > gname=#{gname}</if>
+            <if test="gsex!=null" > gsex=#{gsex}</if>
+            <if test="gage!=null and gage!=0" > gage=#{gage}</if>
+            <if test="gphone!=null" > gphone=#{gphone}</if>
+            <if test="gidcard!=null" > gidcard=#{gidcard}</if>
+            <if test="gpost!=null" > gpost=#{gpost}</if>
+            <if test="gtype!=null" > gtype=#{gtype}</if>
+        </where>
+    </select>
+    <!--添加-->
+    <insert id="gongZry_Add" parameterType="gongZry">
+        INSERT INTO xfsq.gongzry(gid,gname,gsex,gage,gphone,gidcard,gpost,gtype)
+        VALUES (#{gid},#{gname},#{gsex},#{gage},#{gphone},#{gidcard},#{gpost},#{gtype})
+    </insert>
+    <!--修改gongZry_Update-->
+    <update id="gongZry_Update" parameterType="gongZry">
+        UPDATE xfsq.gongzry
+        <set>
+            <if test="gid!=null and gid!=0 " > gid=#{gid},</if>
+            <if test="gname!=null" > gname=#{gname},</if>
+            <if test="gsex!=null" > gsex=#{gsex},</if>
+            <if test="gage!=null" > gage=#{gage},</if>
+            <if test="gphone!=null" > gphone=#{gphone},</if>
+            <if test="gidcard!=null" > gidcard=#{gidcard},</if>
+            <if test="gpost!=null" > gpost=#{gpost},</if>
+            <if test="gtype!=null" > gtype=#{gtype}</if>
+        </set>
+        WHERE gid = #{gid}
+    </update>
+    <!--删除gongZry_Del-->
+    <delete id="gongZry_Del">
+        DELETE FROM xfsq.gongzry WHERE gid IN
+        <foreach collection="array" item="gids" open="(" separator="," close=")">
+            #{gids}
+        </foreach>
+    </delete>
+
+</mapper>

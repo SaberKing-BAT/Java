@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lyc.dao.WuyebxMapper">
+    <!-- 查询所有信息 -->
+    <select id="selectAll"  resultType="com.lyc.bean.Wuyebx">
+        SELECT * FROM wuyebx
+    </select>
+    <!-- 查询数据数量 -->
+    <select id="counts" resultType="long">
+         SELECT
+             count(*)
+         FROM
+             wuyebx
+     </select>
+    <insert id="addOne" parameterType="wuyebx">
+        INSERT INTO wuyebx(wid,wname,wphone,waddress,winfo,wtime,wschedule)
+        VALUES (#{wid},#{wname},#{wphone},#{waddress},#{winfo},#{wtime},#{wschedule})
+    </insert>
+    <!--根据id批量删除-->
+    <delete id="deleteByid">
+        DELETE FROM wuyebx WHERE wid IN
+        <foreach collection="array" item="wids" open="(" separator="," close=")">
+            #{wids}
+        </foreach>
+    </delete>
+    <!--条件查询-->
+    <select id="selectIf" parameterType="wuyebx" resultType="com.lyc.bean.Wuyebx">
+        SELECT
+        *
+        FROM
+        wuyebx
+        <where>
+            <if test="wid!=null and wid!=0" > wid=#{wid}</if>
+            <if test="wname!=null">wname=#{wname}</if>
+            <if test="wphone!=null">wphone=#{wphone}</if>
+            <if test="wtime!=null">wtime=#{wtime}</if>
+            <if test="wschedule!=null"> wschedule=#{wschedule}</if>
+        </where>
+    </select>
+    <update id="updateWuyebx" parameterType="wuyebx" >
+        update  wuyebx
+        <set>
+            wid=#{wid},
+            wname=#{wname},
+            wphone=#{wphone},
+            waddress=#{waddress},
+            wtime=#{wtime},
+            wschedule=#{wschedule},
+            winfo=#{winfo}
+        </set>
+        where wid=#{wid}
+    </update>
+</mapper>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lyc.dao.PinKunMapper">
+    <!--查询数据条数counts-->
+    <select id="counts" resultType="long">
+        SELECT
+            count(1)
+        FROM
+            xfsq.pinkunry
+    </select>
+
+    <!--查询所有selectAll-->
+    <select id="selectAll" resultType="pinKun">
+        SELECT * FROM xfsq.pinkunry
+    </select>
+    <!--查询条件findIf-->
+    <select id="findIf" parameterType="pinKun"  resultType="com.lyc.bean.PinKun">
+        SELECT
+        *
+        FROM
+        xfsq.pinkunry
+        <where>
+            <if test="pid!=null " > pid=#{pid}</if>
+            <if test="pname!=null" > pname=#{pname}</if>
+            <if test="schedule!=null" > schedule=#{schedule}</if>
+            <if test="time!=null" > time=#{time}</if>
+        </where>
+    </select>
+    <!--添加-->
+    <insert id="pinKun_Add" parameterType="pinKun">
+        INSERT INTO xfsq.pinkunry(pid,pname,pinfo,schedule,time)
+        VALUES (#{pid},#{pname},#{pinfo},#{schedule},#{time})
+    </insert>
+    <!--修改pinKun_Update-->
+    <update id="pinKun_Update" parameterType="pinKun">
+        UPDATE xfsq.pinkunry
+        <set>
+            <if test="pid!=null and pid!=''"> pid=#{pid},</if>
+            <if test="pname!=null and pname!=''"> pname=#{pname},</if>
+            <if test="time!=null"> time=#{time},</if>
+            <if test="pinfo!=null and pinfo!=''"> pinfo=#{pinfo},</if>
+            <if test="schedule!=null and schedule!=''">schedule=#{schedule}</if>
+        </set>
+        WHERE pid = #{pid}
+    </update>
+    <!--删除pinKun_Del-->
+    <delete id="pinKun_Del">
+        DELETE FROM xfsq.pinkunry WHERE pid IN
+        <foreach collection="array" item="pids" open="(" separator="," close=")">
+            #{pids}
+        </foreach>
+    </delete>
+
+</mapper>

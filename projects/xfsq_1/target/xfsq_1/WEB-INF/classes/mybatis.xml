@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration     PUBLIC "-//mybatis.org//DTD Config 3.0//EN"     "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!--&lt;!&ndash; 配置 mybatis 的环境 &ndash;&gt;
+    <environments default="mysql">
+        &lt;!&ndash; 配置 mysql 的环境 &ndash;&gt;
+        <environment id="mysql">
+            &lt;!&ndash; 配置事务的类型 &ndash;&gt;
+            <transactionManager type="JDBC"></transactionManager>
+            &lt;!&ndash; 配置连接数据库的信息：用的是数据源(连接池) &ndash;&gt;
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/xfsq?serverTimezone=UTC"/>
+                <property name="username" value="root"/>
+                <property name="password" value="20161921"/>
+            </dataSource>
+        </environment>
+    </environments>
+    &lt;!&ndash; 告知 mybatis 映射配置的位置 &ndash;&gt;
+    <mappers>
+        <mapper resource="mapper\ResidentMapper.xml"></mapper>
+    </mappers>-->
+    <typeAliases>
+        <package name="com.lyc.bean"/>
+    </typeAliases>
+<!--    <plugins>-->
+<!--        &lt;!&ndash; com.github.pagehelper为PageHelper类所在包名 &ndash;&gt;-->
+<!--        <plugin interceptor="com.github.pagehelper.PageInterceptor">-->
+<!--            &lt;!&ndash; 使用下面的方式配置参数，后面会有所有的参数介绍 &ndash;&gt;-->
+<!--            <property name="param1" value="value1"/>-->
+<!--        </plugin>-->
+<!--    </plugins>-->
+</configuration>

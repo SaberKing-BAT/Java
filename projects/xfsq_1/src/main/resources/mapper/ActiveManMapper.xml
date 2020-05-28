@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lyc.dao.ActiveManMapper">
+<resultMap id="activeManMap" type="com.lyc.bean.ActiveMan">
+    <id property="aid" column="aid" />
+    <result property="aphone" column="aphone"/>
+    <!-- 关联映射 -->
+    <association property="resident" column="aphone" javaType="com.lyc.bean.Resident" select="com.lyc.dao.ResidentMapper.findResidentByjphone"/>
+    <association property="activeInfo" column="aid" javaType="com.lyc.bean.ActiveInfo" select="com.lyc.dao.ActiceInfoMapper.findActiveInfoByHid"/>
+</resultMap>
+
+<select id="selectAll" resultMap="activeManMap">
+        SELECT * FROM activeman
+    </select>
+
+<select id="counts" resultType="long">
+         SELECT
+             count(1)
+         FROM
+            activeman
+     </select>
+<!--根据id批量删除-->
+<delete id="deleteManByid">
+    DELETE FROM activeman WHERE aaid IN
+    <foreach collection="array" item="aaids" open="(" separator="," close=")">
+        #{aaids}
+    </foreach>
+</delete>
+<!--添加参与人员-->
+<insert id="addMan" parameterType="activeMan">
+        INSERT INTO activeman(aaid,aid,aphone,aresult,schedule)
+        VALUES (#{aaid},#{aid},#{aphone},#{aresult},#{schedule})
+    </insert>
+<update id="updateActiveMan" parameterType="activeMan">
+    UPDATE activeman
+    <set>
+        <if test="aresult!=null and aresult!=''">aresult=#{aresult},</if>
+        <if test="schedule!=null and schedule!=''">schedule=#{schedule},</if>
+    </set>
+    WHERE aaid = #{aaid}
+</update>
+<!--条件查询-->
+<select id="selectIfMan" parameterType="activeMan"  resultMap="activeManMap">
+    SELECT
+    *
+    FROM
+    activeman
+    <where>
+        <if test="aaid!=null and aaid!=0" > aaid=#{aaid}</if>
+    </where>
+</select>
+</mapper>

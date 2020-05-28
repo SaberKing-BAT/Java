@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lyc.dao.GongGaoMapper">
+    <!--查询数据条数counts-->
+    <select id="counts" resultType="long">
+        SELECT
+            count(1)
+        FROM
+            xfsq.gonggao
+    </select>
+
+    <!--查询所有selectAll-->
+    <select id="selectAll" resultType="gongGao">
+        SELECT * FROM xfsq.gonggao
+    </select>
+    <!--查询条件findIf-->
+    <select id="findIf" parameterType="gongGao"  resultType="com.lyc.bean.GongGao">
+        SELECT
+        *
+        FROM
+        xfsq.gonggao
+        <where>
+            <if test="gid!=null and gid!=0 " > gid=#{gid}</if>
+            <if test="gname!=null" > gname=#{gname}</if>
+            <if test="gtype!=null" > gtype=#{gtype}</if>
+            <if test="gtime!=null" > gtime=#{gtime}</if>
+        </where>
+    </select>
+    <!--添加-->
+    <insert id="gongGao_Add" parameterType="gongGao">
+        INSERT INTO xfsq.gonggao(gid,gname,ginfo,gtype,gtime)
+        VALUES (#{gid},#{gname},#{ginfo},#{gtype},#{gtime})
+    </insert>
+    <!--修改gongGao_Update-->
+    <update id="gongGao_Update" parameterType="gongGao">
+        UPDATE xfsq.gonggao
+        <set>
+            <if test="gid!=null and gid!=0"> gid=#{gid},</if>
+            <if test="gname!=null and gname!=''"> gname=#{gname},</if>
+            <if test="gtime!=null"> gtime=#{gtime},</if>
+            <if test="ginfo!=null and ginfo!=''"> ginfo=#{ginfo},</if>
+            <if test="gtype!=null and gtype!=''">gtype=#{gtype}</if>
+        </set>
+        WHERE gid = #{gid}
+    </update>
+    <!--删除gongGao_Del-->
+    <delete id="gongGao_Del">
+        DELETE FROM xfsq.gonggao WHERE gid IN
+        <foreach collection="array" item="gids" open="(" separator="," close=")">
+            #{gids}
+        </foreach>
+    </delete>
+
+</mapper>

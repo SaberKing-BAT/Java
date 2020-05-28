@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lyc.dao.ActiceInfoMapper">
+    <select id="findActiveInfoByHid" resultType="com.lyc.bean.ActiveInfo">
+        select * from activeinfo where hid=#{hid}
+    </select>
+    <!-- 查询所有信息 -->
+    <select id="selectAll"  resultType="com.lyc.bean.ActiveInfo">
+        SELECT * FROM activeinfo
+    </select>
+    <!-- 查询数量 -->
+    <select id="counts" resultType="long">
+         SELECT
+             count(*)
+         FROM
+             activeinfo
+     </select>
+    <!--根据id批量删除-->
+    <delete id="deleteByid">
+        DELETE FROM activeinfo WHERE hid IN
+        <foreach collection="array" item="hids" open="(" separator="," close=")">
+            #{hids}
+        </foreach>
+    </delete>
+    <insert id="addOne" parameterType="activeInfo">
+        INSERT INTO activeinfo(hid,hname,htime,haddress,hmatter,htype,hstatus)
+        VALUES (#{hid},#{hname},#{htime},#{haddress},#{hmatter},#{htype},#{hstatus})
+    </insert>
+    <update id="updateActive" parameterType="activeInfo">
+        UPDATE activeinfo
+        <set>
+            <if test="hname!=null and hname!=''">hname=#{hname},</if>
+            <if test="htime!=null and htime!=''">htime=#{htime},</if>
+            <if test="haddress!=null and haddress!=''">haddress=#{haddress},</if>
+            <if test="hmatter!=null and hmatter!=''">hmatter=#{hmatter},</if>
+            <if test="htype!=null and htype!=''">htype=#{htype},</if>
+            <if test="hstatus!=null and hstatus!=''">hstatus=#{hstatus},</if>
+        </set>
+        WHERE hid = #{hid}
+    </update>
+    <!--条件查询-->
+    <select id="selectIf" parameterType="activeInfo" resultType="com.lyc.bean.ActiveInfo">
+        SELECT
+        *
+        FROM
+        activeinfo
+        <where>
+            <if test="hid!=null and hid!=0" > hid=#{hid}</if>
+            <if test="hname!=null">hname=#{hname}</if>
+            <if test="htype!=null">htype=#{htype}</if>
+            <if test="htime!=null">htime=#{htime}</if>
+            <if test="hstatus!=null">hstatus=#{hstatus}</if>
+        </where>
+    </select>
+</mapper>

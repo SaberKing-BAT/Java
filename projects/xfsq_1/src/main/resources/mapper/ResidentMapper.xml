@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lyc.dao.ResidentMapper">
+    <!-- 验证登录信息是否正确 -->
+    <select id="login" parameterType="loginform" resultType="com.lyc.bean.Resident">
+        SELECT *
+        FROM resident
+        WHERE jphone = #{userName}
+          AND jpw = #{password}
+    </select>
+    <select id="findResidentByjphone" resultType="com.lyc.bean.Resident">
+        select * from resident where jphone=#{jphone}
+    </select>
+    <!-- 查询所有信息 -->
+    <select id="selectAll"  resultType="com.lyc.bean.Resident">
+        SELECT * FROM resident
+    </select>
+    <!-- 查询数据数量 -->
+    <select id="counts" resultType="long">
+         SELECT
+             count(*)
+         FROM
+             resident
+     </select>
+    <!-- 查询年龄段数量 -->
+    <select id="ageCounts" resultType="long">
+         SELECT
+             count(*)
+         FROM
+             resident
+        where jage&gt;#{smallage} and jage&lt;=#{bigage}
+     </select>
+    <!-- 查询年人口数 -->
+    <select id="yearCounts" resultType="long">
+         SELECT
+             count(*)
+         FROM
+             resident
+        where intime between #{staryear} and #{endyear}
+     </select>
+    <!--条件查询-->
+    <select id="selectIf" parameterType="resident" resultType="com.lyc.bean.Resident">
+        SELECT
+            *
+        FROM
+            resident
+        <where>
+            <if test="jid!=null"> jid=#{jid}</if>
+            <if test="jname!=null">jname=#{jname}</if>
+            <if test="jsex!=null">jsex=#{jsex}</if>
+            <if test="jage!=null and jage!=0">jage=#{jage}</if>
+            <if test="jphone!=null">jphone=#{jphone}</if>
+            <if test="jadress!=null">jadress LIKE CONCAT(CONCAT('%', #{jadress}), '%')</if>
+            <if test="idadress!=null">idadress LIKE CONCAT(CONCAT('%', #{idadress}), '%')</if>
+            <if test="intime!=null">year(intime)=#{intime}</if>
+        </where>
+
+
+    </select>
+    <!--根据id批量删除-->
+    <delete id="deleteByid">
+        DELETE FROM resident WHERE jid IN
+        <foreach collection="array" item="jids" open="(" separator="," close=")">
+            #{jids}
+        </foreach>
+    </delete>
+    <insert id="addOne" parameterType="resident">
+        INSERT INTO resident(jid,jname,jsex,jage,jphone,jadress,idadress,intime,jpw)
+        VALUES (#{jid},#{jname},#{jsex},#{jage},#{jphone},#{jadress},#{idadress},#{intime},#{jpw})
+    </insert>
+    <update id="updateResident" parameterType="resident">
+        UPDATE resident
+        <set>
+            <if test="jname!=null and jname!=''">jname=#{jname},</if>
+            <if test="jsex!=null and jsex!=''">jsex=#{jsex},</if>
+            <if test="jage!=null and jage!=''">jage=#{jage},</if>
+            <if test="jphone!=null and jphone!=''">jphone=#{jphone},</if>
+            <if test="jadress!=null and jadress!=''">jadress=#{jadress},</if>
+            <if test="idadress!=null and idadress!=''">idadress=#{idadress},</if>
+            <if test="intime!=null and intime!=''">intime=#{intime},</if>
+            <if test="jpw!=null and jpw!=''">jpw=#{jpw},</if>
+        </set>
+        WHERE jid = #{jid}
+    </update>
+    <update id="updatePw" parameterType="com.lyc.bean.Resident">
+        UPDATE resident
+        <set>
+            <if test="jpw!=null and jpw!=''">jpw=#{jpw},</if>
+        </set>
+        WHERE jphone = #{jphone}
+    </update>
+
+   <!--  根据id查询指定管理员信息
+    <select id="findByName" parameterType="String" resultType="pers.huangyuhui.sms.bean.Admin">
+        SELECT id,
+               name,
+               gender,
+               jage,
+               jphone,
+               jadress,
+               address,
+               portrait_path
+        FROM tb_admin
+        WHERE name = #{name}
+    </select>
+
+    &lt;!&ndash; 添加管理员信息 &ndash;&gt;
+    <insert id="insert" parameterType="admin">
+        INSERT INTO tb_admin(name, gender, jage, jphone, jadress, address, portrait_path)
+        VALUES (#{name}, #{gender}, #{jage}, #{jphone}, #{jadress}, #{address}, #{portrait_path})
+    </insert>
+
+    &lt;!&ndash; 根据姓名模糊查询指定/所有管理员信息 列表 &ndash;&gt;
+    <select id="selectList" parameterType="admin" resultType="pers.huangyuhui.sms.bean.Admin">
+        SELECT id, name, gender, jage, jphone, jadress, address, portrait_path
+        FROM tb_admin
+        <where>
+            &lt;!&ndash; name为Admin中的属性名(在Controller层中已将查询的姓名封装到了Admin中的name属性中) &ndash;&gt;
+            <if test="name!=null and name!=''">
+                AND name LIKE concat(concat('%',#{name}),'%')
+            </if>
+        </where>
+    </select>
+
+    &lt;!&ndash; 根据id更新指定管理员信息 &ndash;&gt;
+    <update id="update" parameterType="admin">
+        UPDATE tb_admin
+        <set>
+            <if test="name!=null and name!=''">name=#{name},</if>
+            <if test="gender!=null and gender!=''">gender=#{gender},</if>
+            <if test="jphone!=null and jphone!=''">jphone=#{jphone},</if>
+            <if test="jadress!=null and jadress!=''">jadress=#{jadress},</if>
+            <if test="address!=null and address!=''">address=#{address},</if>
+            <if test="jpw=null and jpw=''">portrait_path=#{portrait_path},</if>
+        </set>
+        WHERE id = #{id}
+    </update>
+
+    &lt;!&ndash; 根据id修改指定用户密码 &ndash;&gt;
+    <update id="updatejage" parameterType="admin">
+        UPDATE tb_admin
+        SET jage = #{jage}
+        WHERE id = #{id}
+    </update>
+
+    &lt;!&ndash; 根据id批量删除管理员信息 &ndash;&gt;
+    <delete id="deleteById">
+        DELETE FROM ssm_sms.tb_admin WHERE id IN
+        <foreach collection="array" item="ids" open="(" separator="," close=")">
+            #{ids}
+        </foreach>
+    </delete>
+-->
+</mapper>

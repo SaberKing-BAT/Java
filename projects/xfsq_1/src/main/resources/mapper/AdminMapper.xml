@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lyc.dao.AdminMapper">
+    <!-- 验证登录信息是否正确 -->
+    <select id="login" parameterType="loginform" resultType="com.lyc.bean.Admin">
+        SELECT *
+        FROM admin
+        WHERE aphone = #{userName}
+          AND apw = #{password}
+    </select>
+    <!--查询所有-->
+    <select id="selectAll" resultType="com.lyc.bean.Admin">
+        SELECT *
+        FROM admin
+    </select>
+    <update id="updatePw" parameterType="com.lyc.bean.Admin">
+        UPDATE admin
+        <set>
+            <if test="apw!=null and apw!=''">apw=#{apw},</if>
+        </set>
+        WHERE aphone = #{aphone}
+    </update>
+</mapper>
