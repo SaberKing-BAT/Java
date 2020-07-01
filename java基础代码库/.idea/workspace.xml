@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_1_41.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
@@ -77,6 +78,14 @@
       <change beforePath="$PROJECT_DIR$/src/IDEA/IDEA快捷键.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/IDEA/IDEA快捷键.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LYC/object/TestHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/object/TestHash.java" afterDir="false" />
     </list>
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8a3d33a8-d635-4be2-b604-44adbe7ac77b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IDEA/内置tomcat目录.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IDEA/内置tomcat目录.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> 651b8e947c3a1bb44ecf728002fe7bc5a8591a13
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +138,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+=======
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+>>>>>>> 651b8e947c3a1bb44ecf728002fe7bc5a8591a13
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -153,9 +166,27 @@
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\类加载顺序" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.SortTest">
     <configuration name="FastJsonToObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LYC.Json.FastJsonToObject" />
+=======
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WriterTest">
+    <configuration name="Data1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.Data.Data1" />
+>>>>>>> 651b8e947c3a1bb44ecf728002fe7bc5a8591a13
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
@@ -236,18 +267,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -300,6 +319,7 @@
       <workItem from="1590463646124" duration="3087000" />
       <workItem from="1590563844231" duration="2272000" />
       <workItem from="1590628715658" duration="1326000" />
+<<<<<<< HEAD
       <workItem from="1592203864924" duration="23643000" />
       <workItem from="1592363111006" duration="5133000" />
       <workItem from="1592380848584" duration="2105000" />
@@ -310,6 +330,9 @@
       <workItem from="1592796134569" duration="6317000" />
       <workItem from="1593309150092" duration="836000" />
       <workItem from="1593392547687" duration="7890000" />
+=======
+      <workItem from="1593566229720" duration="243000" />
+>>>>>>> 651b8e947c3a1bb44ecf728002fe7bc5a8591a13
     </task>
     <servers />
   </component>
