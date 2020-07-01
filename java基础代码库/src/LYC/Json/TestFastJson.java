@@ -1,0 +1,88 @@
+package LYC.Json;
+
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
+
+import java.util.HashMap;
+
+/**
+ * @ClassName TestFastJson
+ * @Description TODO
+ * @Author LYC
+ * @Date 2020/6/15 16:29
+ * @Version 1.0
+ **/
+public class TestFastJson {
+    //封装json字符串；
+    public static String packagingJson(){
+        JSONObject jsonObject = new JSONObject();
+        JSONArray in = new JSONArray();
+        JSONObject in1 =new JSONObject();
+        JSONObject in2 =new JSONObject();
+        JSONObject value =  new JSONObject();
+        value.put("1","1");
+        value.put("2","2");
+        value.put("3","3");
+        in1.put("value",value);
+        in1.put("type","2002");
+        in2.put("value","03");
+        in2.put("type","12");
+        in.add(in1);
+        in.add(in2);
+        JSONArray out = new JSONArray();
+        JSONObject out1 = new JSONObject();
+        JSONObject out2 =new JSONObject();
+        out1.put("outName","PRM_KF");
+        out1.put("outType","2");
+        out2.put("outName","PRM_KF");
+        out2.put("outType","2");
+        out.add(out1);
+        out.add(out2);
+        jsonObject.put("in",in);
+        jsonObject.put("out",out);
+        jsonObject.put("procedureName","PKG_SBPJ_DYHF.PRO_DYHF_MAIN");
+        String str = jsonObject.toJSONString();
+        System.out.println(str);
+        return  str;
+    }
+    //解析json
+    public static String analysisJson(){
+        String str = "{" +
+                "\"code\": 0," +
+                "\"msg\": \"操作成功\"," +
+                "\"data\": {" +
+                "\"PRM_WXJY\": null," +
+                "\"PRM_KF\": null," +
+                "\"PRM_MSG\": null," +
+                "\"PRM_TQIKFBZW\": \"1\"," +
+                "\"PRM_CODE\": \"1\"" +
+                "}" +
+                "}";
+        System.out.println(str);
+        JSONObject jsonObject =JSONObject.parseObject(str);
+        JSONObject data = jsonObject.getJSONObject("data");
+        //get方法返回Object，返回具体可以用getString等
+        System.out.println(data.get("PRM_CODE").toString());
+        int i = Integer.parseInt((String) data.get("PRM_CODE")) ;
+        System.out.println(i);
+        int a = data.getInteger("PRM_CODE");
+        System.out.println(a);
+        String str1 = data.getString("PRM_CODE");
+        System.out.println(str1);
+        //注意Json中的数字类型是Number包装类类型，
+        Number number =new Integer(2312);
+        number.toString();
+
+        //
+
+        return "";
+    }
+    public static void main(String[] args) {
+        boolean flag = 1>2;
+        System.out.println(flag);
+        //analysisJson();
+       // packagingJson();
+    }
+}
+

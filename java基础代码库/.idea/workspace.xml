@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="" />
+    <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_1_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/Excel/excelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/Excel/poi-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/Json/TestFastJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/Util/GenerateUID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/object/ObjectParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/函数/ConstructFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/函数/eg/ThisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/序列化/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/数据类型/基本类型.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/集合/LinkedHashMap/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/集合/Map/MapArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/集合/Map/Traverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/集合/Map/UpdateMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java基础代码库.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java基础代码库.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/IDEA/IDEA快捷键.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/IDEA/内置tomcat目录.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Data/Data1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/ReaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/WriterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/OutputStream_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JDBC/MySQL/mysql-connector-java-8.0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/MySQL/数据脚本/DA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/TestHash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/RunnableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/ThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Jifei.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/Break.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/Continue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/DoubleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/test/LinkListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/FastSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/Maopao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/源码分析/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Bar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/ConstructorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Dali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$ShopImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Digui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/StaticTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/META-INF/java基础代码库.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IDEA/IDEA快捷键.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/IDEA/IDEA快捷键.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/object/TestHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/object/TestHash.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,12 +103,13 @@
         <option value="Kotlin Class" />
         <option value="HTML File" />
         <option value="package-info" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../git_repository1/myrep1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Y7CBO110mUxuA8PlgUE3u6SQi0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,36 +122,44 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/zhongyun_work/subway project/project code/s2/szsubway" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\MyGitHub\Java\java基础代码库\src\LYC\Json" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC\MySQL" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\IDEA" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC" />
       <recent name="D:\study\idea_workspace\java基础代码库\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LYC.序列化" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\MyGitHub\Java\java基础代码库\src\LYC\数据类型" />
+      <recent name="D:\study\MyGitHub\Java\java基础代码库\src\LYC" />
+      <recent name="D:\study\MyGitHub\Java\java基础代码库\src\LYC\Util" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\类加载顺序" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WriterTest">
-    <configuration name="Data1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.Data.Data1" />
+  <component name="RunManager" selected="Application.SortTest">
+    <configuration name="FastJsonToObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.Json.FastJsonToObject" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.Data.*" />
+          <option name="PATTERN" value="LYC.Json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.数据类型.DoubleTest" />
+    <configuration name="MapArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.集合.Map.MapArray" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.数据类型.*" />
+          <option name="PATTERN" value="LYC.集合.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.IO.文件.FileTest" />
+    <configuration name="SortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.集合.LinkedHashMap.SortTest" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.IO.文件.*" />
+          <option name="PATTERN" value="LYC.集合.LinkedHashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jdbc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.JDBC.MySQL.Jdbc1" />
+    <configuration name="TestFastJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.Json.TestFastJson" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.JDBC.MySQL.*" />
+          <option name="PATTERN" value="LYC.Json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.IO.字符流.WriterTest" />
+    <configuration name="UpdateMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.集合.Map.UpdateMap" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.IO.字符流.*" />
+          <option name="PATTERN" value="LYC.集合.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +220,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Data1" />
-      <item itemvalue="Application.WriterTest" />
-      <item itemvalue="Application.DoubleTest" />
-      <item itemvalue="Application.Jdbc1" />
-      <item itemvalue="Application.FileTest" />
+      <item itemvalue="Application.TestFastJson" />
+      <item itemvalue="Application.MapArray" />
+      <item itemvalue="Application.UpdateMap" />
+      <item itemvalue="Application.FastJsonToObject" />
+      <item itemvalue="Application.SortTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WriterTest" />
-        <item itemvalue="Application.FileTest" />
-        <item itemvalue="Application.Jdbc1" />
-        <item itemvalue="Application.DoubleTest" />
-        <item itemvalue="Application.Data1" />
+        <item itemvalue="Application.SortTest" />
+        <item itemvalue="Application.FastJsonToObject" />
+        <item itemvalue="Application.UpdateMap" />
+        <item itemvalue="Application.TestFastJson" />
+        <item itemvalue="Application.MapArray" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +300,16 @@
       <workItem from="1590463646124" duration="3087000" />
       <workItem from="1590563844231" duration="2272000" />
       <workItem from="1590628715658" duration="1326000" />
+      <workItem from="1592203864924" duration="23643000" />
+      <workItem from="1592363111006" duration="5133000" />
+      <workItem from="1592380848584" duration="2105000" />
+      <workItem from="1592442122447" duration="2111000" />
+      <workItem from="1592447062295" duration="1343000" />
+      <workItem from="1592459042703" duration="4074000" />
+      <workItem from="1592528717318" duration="4895000" />
+      <workItem from="1592796134569" duration="6317000" />
+      <workItem from="1593309150092" duration="836000" />
+      <workItem from="1593392547687" duration="7890000" />
     </task>
     <servers />
   </component>
@@ -236,10 +330,6 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="94" key="#Project_Structure" timestamp="1582284119980">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1582284119980" />
     <state x="279" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590390049974">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -249,80 +339,99 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="667" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1590110272551" />
-    <state x="521" y="274" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1582284719763">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="521" y="274" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.864@0.0.1536.864" timestamp="1582284719763" />
     <state x="549" y="141" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1586400166064">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="141" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1586400166064" />
-    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1586489504226">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="718" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1592805258968">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1586489504226" />
+    <state x="718" y="176" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592805258968" />
     <state x="498" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586400757929">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="498" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1586400757929" />
+    <state x="629" y="337" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592379165973">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="629" y="337" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592379165973" />
     <state x="503" y="195" key="EnvironmentVariablesDialog" timestamp="1586400009336">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="503" y="195" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" timestamp="1586400009336" />
-    <state x="686" y="239" key="FileChooserDialogImpl" timestamp="1590468278488">
+    <state x="686" y="239" key="FileChooserDialogImpl" timestamp="1592796333639">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586521417708" />
-    <state x="686" y="239" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1590468278488" />
+    <state x="686" y="239" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1592796333639" />
     <state x="588" y="345" width="384" height="174" key="Github.CreateGistDialog" timestamp="1586519299001">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="588" y="345" width="384" height="174" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1586519299001" />
-    <state width="1919" height="274" key="GridCell.Tab.0.bottom" timestamp="1590404338304">
+    <state width="1797" height="392" key="GridCell.Tab.0.bottom" timestamp="1593497985068">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="133" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587267543306" />
-    <state width="1919" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590404338304" />
-    <state width="1919" height="274" key="GridCell.Tab.0.center" timestamp="1590404338304">
+    <state width="1875" height="392" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592568093245" />
+    <state width="1797" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593497985068" />
+    <state width="1797" height="392" key="GridCell.Tab.0.center" timestamp="1593497985068">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="133" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587267543306" />
-    <state width="1919" height="274" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590404338304" />
-    <state width="1919" height="274" key="GridCell.Tab.0.left" timestamp="1590404338304">
+    <state width="1875" height="392" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592568093245" />
+    <state width="1797" height="392" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593497985068" />
+    <state width="1797" height="392" key="GridCell.Tab.0.left" timestamp="1593497985067">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="133" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587267543306" />
-    <state width="1919" height="274" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590404338304" />
-    <state width="1919" height="274" key="GridCell.Tab.0.right" timestamp="1590404338304">
+    <state width="1875" height="392" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592568093245" />
+    <state width="1797" height="392" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593497985067" />
+    <state width="1797" height="392" key="GridCell.Tab.0.right" timestamp="1593497985068">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="133" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587267543306" />
-    <state width="1919" height="274" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590404338304" />
-    <state x="241" y="119" width="1250" height="716" key="SettingsEditor" timestamp="1586512013946">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1875" height="392" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592568093245" />
+    <state width="1797" height="392" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593497985068" />
+    <state width="1425" height="344" key="GridCell.Tab.1.bottom" timestamp="1592380010261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1425" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592380010261" />
+    <state width="1425" height="344" key="GridCell.Tab.1.center" timestamp="1592380010261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1425" height="344" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592380010261" />
+    <state width="1425" height="344" key="GridCell.Tab.1.left" timestamp="1592380010261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1425" height="344" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592380010261" />
+    <state width="1425" height="344" key="GridCell.Tab.1.right" timestamp="1592380010261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1425" height="344" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592380010261" />
+    <state x="301" y="149" width="1250" height="716" key="SettingsEditor" timestamp="1592556147371">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="241" y="119" width="1250" height="716" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586512013946" />
+    <state x="301" y="149" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1592556147371" />
     <state x="721" y="297" width="574" height="402" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586512196941">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="721" y="297" width="574" height="402" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1586512196941" />
-    <state x="576" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1590628730200">
+    <state x="576" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1593309385948">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="261" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586510372164" />
-    <state x="576" y="326" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590628730200" />
-    <state x="457" y="64" width="621" height="735" key="find.popup" timestamp="1582284801183">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="576" y="326" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593309385948" />
+    <state x="667" y="436" width="647" height="534" key="find.popup" timestamp="1592448560001">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="457" y="64" width="621" height="735" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1582284801183" />
+    <state x="667" y="436" width="647" height="534" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592448560001" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1586402490451">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.0.1536.864@0.0.1536.864" timestamp="1586402490451" />
-    <state x="177" y="126" key="new project wizard" timestamp="1587820039333">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="221" y="158" key="new project wizard" timestamp="1592556294666">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="177" y="126" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1587820039333" />
+    <state x="221" y="158" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1592556294666" />
     <state x="449" y="290" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586399136356">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
