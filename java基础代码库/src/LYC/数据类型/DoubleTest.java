@@ -16,6 +16,11 @@ public class DoubleTest {
   public static void precisionLose() {
         double a = 5.12323;
         double b = 0.23230;
+        double c = 70.0;
+        double d =30.0;
+
+        c=100.0-c;
+        System.out.println(c);
         System.out.println(a+b+"\n"+b+"\n"+(a-b));
     }
 }
