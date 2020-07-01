@@ -1,8 +1,6 @@
 package LYC.object;
 
-<<<<<<< HEAD
 
-=======
 import java.util.ArrayList;
 import java.util.List;
 
@@ -20,7 +18,6 @@ class Person{
                 '}';
     }
 }
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
 public class TestHash {
     //局部变量
     public static void localVariables(){
