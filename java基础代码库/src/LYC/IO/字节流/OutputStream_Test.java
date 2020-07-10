@@ -6,13 +6,13 @@ import java.io.*;
 public class OutputStream_Test {
     public static void main(String[] args) throws IOException {
         outPutStream();
-        bufferOutputStream();
+        //bufferOutputStream();
     }
     public static void outPutStream() throws IOException {
-        java.lang.String fliePath="dfs";
+        String fliePath="D:\\txt1.txt";
         File file = new File(fliePath);//没有会创建
         OutputStream outputStream = new FileOutputStream(file);
-        byte[] bytes = new String("你好啊").getBytes();
+        byte[] bytes = new String("你好啊").getBytes("gb2312");
         outputStream.write(bytes);
         outputStream.close();
     }

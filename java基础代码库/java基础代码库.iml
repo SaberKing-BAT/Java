@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="JRebel" name="JRebel">
+      <configuration>
+        <option name="ideModuleStorage">
+          <map>
+            <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+            <entry key="com.zeroturnaround.jrebel.remoting.DeleteUnindexedFiles" value="false" />
+            <entry key="com.zeroturnaround.jrebel.remoting.ModuleRemoteServerSelection" value="off" />
+            <entry key="com.zeroturnaround.jrebel.remoting.ModuleSpecificSingleRemoteServer" />
+          </map>
+        </option>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -10,5 +24,7 @@
     <orderEntry type="library" name="mysql-connector-java-8.0.18" level="project" />
     <orderEntry type="library" name="mysql-connector-java-8.0.18 (2)" level="project" />
     <orderEntry type="library" name="fastjson-1.1.41" level="project" />
+    <orderEntry type="library" name="jna-5.0.0" level="project" />
+    <orderEntry type="library" name="jedis-2.9.0" level="project" />
   </component>
 </module>

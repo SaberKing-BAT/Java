@@ -16,19 +16,19 @@ import java.io.Writer;
  **/
 public class WriterTest {
     public static void main(String[] args) {
-        writer();
+        String string= "年好吧";
+        writer(string);
     }
 
     //不带缓冲
-    public static void writer(){
-        String filePath = "D:\\files\\file1";
+    public static void writer(String data){
+        String filePath = "D:\\files\\file1\\";
         String fileName = "test.txt";
-        String fileInfo="我是大好人";
         FileTest.createPath(filePath);
         try {
             File file=new File(filePath+fileName);
             Writer writer =new FileWriter(file);
-            writer.write(fileInfo);
+            writer.write(data);
             writer.close();
         } catch (IOException e) {
             e.printStackTrace();

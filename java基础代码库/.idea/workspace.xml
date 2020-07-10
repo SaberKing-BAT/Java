@@ -2,101 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_1_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/Excel/excelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/Excel/poi-4.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/Json/TestFastJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/Util/GenerateUID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/object/ObjectParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/函数/ConstructFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/函数/eg/ThisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/序列化/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/数据类型/基本类型.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/集合/LinkedHashMap/SortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/集合/Map/MapArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/集合/Map/Traverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/集合/Map/UpdateMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jna_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/IO/iostream2xx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/IO/文件/FileTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/IO/编码/EncodingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/JNI/JNA/jna-5.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/lang/MyClassLoader_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/多线程/MemoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/多线程/Voliet/WriterAndRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/集合/Map/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/appFrame/redis/ConnctionToRedis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/appFrame/redis/jedis-2.9.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java基础代码库.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java基础代码库.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/IDEA/IDEA快捷键.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/IDEA/内置tomcat目录.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Data/Data1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/ReaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/WriterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/OutputStream_Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JDBC/MySQL/mysql-connector-java-8.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/MySQL/数据脚本/DA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/TestHash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/RunnableTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/ThreadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Jifei.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/Break.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/Continue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/DoubleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/test/LinkListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/FastSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/Maopao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/源码分析/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Bar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/ConstructorExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Foo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Dali.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Shop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$ShopImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Digui.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/StaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/StaticTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/META-INF/java基础代码库.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IDEA/IDEA快捷键.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/IDEA/IDEA快捷键.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/object/TestHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/object/TestHash.java" afterDir="false" />
-    </list>
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8a3d33a8-d635-4be2-b604-44adbe7ac77b.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/LYC/循环语句/IfElse.java" afterDir="false" />
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/IDEA/内置tomcat目录.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/IDEA/内置tomcat目录.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/ReaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/ReaderTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/WriterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/WriterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/OutputStream_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/OutputStream_Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/TestHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/TestHash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/DoubleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/DoubleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/META-INF/java基础代码库.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/IO/字符流/ReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/字符流/ReaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/IO/字符流/WriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/字符流/WriterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/IO/字节流/InputStream_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/字节流/InputStream_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/IO/字节流/OutputStream_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/字节流/OutputStream_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/IO/文件/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/文件/FileTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LYC/object/TestHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/object/TestHash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/数据类型/DoubleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/数据类型/DoubleTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
->>>>>>> 651b8e947c3a1bb44ecf728002fe7bc5a8591a13
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +61,6 @@
         <option value="Kotlin Class" />
         <option value="HTML File" />
         <option value="package-info" />
-        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -151,51 +85,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="D:/zhongyun_work/subway project/project code/s2/szsubway" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-<<<<<<< HEAD
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-=======
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
->>>>>>> 651b8e947c3a1bb44ecf728002fe7bc5a8591a13
-=======
-    <property name="last_opened_file_path" value="D:/zhongyun_work/subway project/code/szsubway" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\study\MyGitHub\Java\java基础代码库\src\LYC\Json" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC\MySQL" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\IDEA" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC" />
       <recent name="D:\study\idea_workspace\java基础代码库\src" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="LYC.序列化" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\study\MyGitHub\Java\java基础代码库\src\LYC\数据类型" />
-      <recent name="D:\study\MyGitHub\Java\java基础代码库\src\LYC" />
-      <recent name="D:\study\MyGitHub\Java\java基础代码库\src\LYC\Util" />
+      <recent name="D:\study\Java\java基础代码库\src\LYC\IO" />
+      <recent name="D:\study\Java\java基础代码库\src" />
+      <recent name="D:\study\Java\java基础代码库\src\LYC\JNI\JNA" />
+      <recent name="D:\study\Java\java基础代码库\src\appFrame\redis" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC" />
-      <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\类加载顺序" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.SortTest">
-    <configuration name="FastJsonToObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.Json.FastJsonToObject" />
-=======
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -208,24 +122,13 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.WriterTest">
-    <configuration name="Data1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.Data.Data1" />
->>>>>>> 651b8e947c3a1bb44ecf728002fe7bc5a8591a13
+  <component name="RunManager" selected="Application.EncodingTest">
+    <configuration name="EncodingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.IO.编码.EncodingTest" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.Json.*" />
-=======
-  <component name="RunManager" selected="Application.IfElse">
-    <configuration name="DoubleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.数据类型.DoubleTest" />
-      <module name="java基础代码库" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LYC.数据类型.*" />
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
+          <option name="PATTERN" value="LYC.IO.编码.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,21 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="MapArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.集合.Map.MapArray" />
+    <configuration name="InputStream_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.IO.字节流.InputStream_Test" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.集合.Map.*" />
-=======
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.IO.文件.FileTest" />
-      <module name="java基础代码库" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LYC.IO.文件.*" />
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
+          <option name="PATTERN" value="LYC.IO.字节流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,21 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="SortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.集合.LinkedHashMap.SortTest" />
+    <configuration name="JNA_Test_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.JNI.JNA.JNA_Test_1" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.集合.LinkedHashMap.*" />
-=======
-    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.循环语句.IfElse" />
-      <module name="java基础代码库" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LYC.循环语句.*" />
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
+          <option name="PATTERN" value="LYC.JNI.JNA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,21 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="TestFastJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.Json.TestFastJson" />
+    <configuration name="OutputStream_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.IO.字节流.OutputStream_Test" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.Json.*" />
-=======
-    <configuration name="TestHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.object.TestHash" />
-      <module name="java基础代码库" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LYC.object.*" />
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
+          <option name="PATTERN" value="LYC.IO.字节流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpdateMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.集合.Map.UpdateMap" />
+    <configuration name="WriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.IO.字符流.WriterTest" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.集合.Map.*" />
+          <option name="PATTERN" value="LYC.IO.字符流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,35 +189,19 @@
       </method>
     </configuration>
     <list>
-<<<<<<< HEAD
-      <item itemvalue="Application.TestFastJson" />
-      <item itemvalue="Application.MapArray" />
-      <item itemvalue="Application.UpdateMap" />
-      <item itemvalue="Application.FastJsonToObject" />
-      <item itemvalue="Application.SortTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SortTest" />
-        <item itemvalue="Application.FastJsonToObject" />
-        <item itemvalue="Application.UpdateMap" />
-        <item itemvalue="Application.TestFastJson" />
-        <item itemvalue="Application.MapArray" />
-=======
+      <item itemvalue="Application.InputStream_Test" />
       <item itemvalue="Application.WriterTest" />
-      <item itemvalue="Application.DoubleTest" />
-      <item itemvalue="Application.FileTest" />
-      <item itemvalue="Application.TestHash" />
-      <item itemvalue="Application.IfElse" />
+      <item itemvalue="Application.OutputStream_Test" />
+      <item itemvalue="Application.JNA_Test_1" />
+      <item itemvalue="Application.EncodingTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IfElse" />
-        <item itemvalue="Application.TestHash" />
-        <item itemvalue="Application.DoubleTest" />
+        <item itemvalue="Application.EncodingTest" />
+        <item itemvalue="Application.JNA_Test_1" />
+        <item itemvalue="Application.InputStream_Test" />
+        <item itemvalue="Application.OutputStream_Test" />
         <item itemvalue="Application.WriterTest" />
-        <item itemvalue="Application.FileTest" />
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
       </list>
     </recent_temporary>
   </component>
@@ -397,25 +257,12 @@
       <workItem from="1590463646124" duration="3087000" />
       <workItem from="1590563844231" duration="2272000" />
       <workItem from="1590628715658" duration="1326000" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <workItem from="1592203864924" duration="23643000" />
-      <workItem from="1592363111006" duration="5133000" />
-      <workItem from="1592380848584" duration="2105000" />
-      <workItem from="1592442122447" duration="2111000" />
-      <workItem from="1592447062295" duration="1343000" />
-      <workItem from="1592459042703" duration="4074000" />
-      <workItem from="1592528717318" duration="4895000" />
-      <workItem from="1592796134569" duration="6317000" />
-      <workItem from="1593309150092" duration="836000" />
-      <workItem from="1593392547687" duration="7890000" />
-=======
-      <workItem from="1593566229720" duration="243000" />
->>>>>>> 651b8e947c3a1bb44ecf728002fe7bc5a8591a13
-=======
       <workItem from="1593566229720" duration="1566000" />
-      <workItem from="1593569282069" duration="5380000" />
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
+      <workItem from="1593569282069" duration="5412000" />
+      <workItem from="1593612323906" duration="20000" />
+      <workItem from="1593651580103" duration="21286000" />
+      <workItem from="1594172723489" duration="35419000" />
+      <workItem from="1594369618354" duration="4669000" />
     </task>
     <servers />
   </component>
@@ -436,123 +283,6 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-<<<<<<< HEAD
-    <state x="279" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590390049974">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586400862657" />
-    <state x="279" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590390049974" />
-    <state x="667" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590110272551">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="667" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1590110272551" />
-    <state x="549" y="141" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1586400166064">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="549" y="141" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1586400166064" />
-    <state x="718" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1592805258968">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1586489504226" />
-    <state x="718" y="176" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592805258968" />
-    <state x="498" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586400757929">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="498" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1586400757929" />
-    <state x="629" y="337" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592379165973">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="629" y="337" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592379165973" />
-    <state x="503" y="195" key="EnvironmentVariablesDialog" timestamp="1586400009336">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="503" y="195" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" timestamp="1586400009336" />
-    <state x="686" y="239" key="FileChooserDialogImpl" timestamp="1592796333639">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586521417708" />
-    <state x="686" y="239" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1592796333639" />
-    <state x="588" y="345" width="384" height="174" key="Github.CreateGistDialog" timestamp="1586519299001">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="588" y="345" width="384" height="174" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1586519299001" />
-    <state width="1797" height="392" key="GridCell.Tab.0.bottom" timestamp="1593497985068">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="392" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592568093245" />
-    <state width="1797" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593497985068" />
-    <state width="1797" height="392" key="GridCell.Tab.0.center" timestamp="1593497985068">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="392" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592568093245" />
-    <state width="1797" height="392" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593497985068" />
-    <state width="1797" height="392" key="GridCell.Tab.0.left" timestamp="1593497985067">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="392" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592568093245" />
-    <state width="1797" height="392" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593497985067" />
-    <state width="1797" height="392" key="GridCell.Tab.0.right" timestamp="1593497985068">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="392" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592568093245" />
-    <state width="1797" height="392" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593497985068" />
-    <state width="1425" height="344" key="GridCell.Tab.1.bottom" timestamp="1592380010261">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1425" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592380010261" />
-    <state width="1425" height="344" key="GridCell.Tab.1.center" timestamp="1592380010261">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1425" height="344" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592380010261" />
-    <state width="1425" height="344" key="GridCell.Tab.1.left" timestamp="1592380010261">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1425" height="344" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592380010261" />
-    <state width="1425" height="344" key="GridCell.Tab.1.right" timestamp="1592380010261">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1425" height="344" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592380010261" />
-    <state x="301" y="149" width="1250" height="716" key="SettingsEditor" timestamp="1592556147371">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="241" y="119" width="1250" height="716" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586512013946" />
-    <state x="301" y="149" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1592556147371" />
-    <state x="721" y="297" width="574" height="402" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586512196941">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="721" y="297" width="574" height="402" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1586512196941" />
-    <state x="576" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1593309385948">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="461" y="261" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586510372164" />
-    <state x="576" y="326" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593309385948" />
-    <state x="667" y="436" width="647" height="534" key="find.popup" timestamp="1592448560001">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="667" y="436" width="647" height="534" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592448560001" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1586402490451">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="600" height="424" key="javadoc.popup/0.0.1536.864@0.0.1536.864" timestamp="1586402490451" />
-    <state x="221" y="158" key="new project wizard" timestamp="1592556294666">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="177" y="126" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1587820039333" />
-    <state x="221" y="158" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1592556294666" />
-    <state x="449" y="290" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586399136356">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="449" y="290" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1586399136356" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1590390045647">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586402462119" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590390045647" />
-    <state x="838" y="289" key="svn.repositoryBrowser" timestamp="1586512617191">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="838" y="289" key="svn.repositoryBrowser/0.0.1536.864@0.0.1536.864" timestamp="1586512617191" />
-=======
     <state x="361" y="94" key="#Project_Structure" />
     <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" />
     <state x="279" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
@@ -607,7 +337,6 @@
     <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" />
     <state x="838" y="289" key="svn.repositoryBrowser" />
     <state x="838" y="289" key="svn.repositoryBrowser/0.0.1536.864@0.0.1536.864" />
->>>>>>> 323422c268ad8b05f1c08dc0838879e0047d27c6
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -616,6 +345,16 @@
           <url>file://$PROJECT_DIR$/src/LYC/源码分析/MainTest.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LYC/集合/Map/HashMapTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LYC/集合/Map/HashMapTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/LYC/类加载顺序/StaticTest3.java</url>
@@ -640,6 +379,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LYC/IO/字节流/OutputStream_Test.java</url>
+          <line>6</line>
+          <properties class="LYC.IO.字节流.OutputStream_Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

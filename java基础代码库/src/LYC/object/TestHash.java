@@ -4,7 +4,9 @@ package LYC.object;
 import java.util.ArrayList;
 import java.util.List;
 
+interface   a{
 
+}
 //万物皆可转object
 class Person{
     private String Name;
@@ -22,6 +24,7 @@ public class TestHash {
     //局部变量
     public static void localVariables(){
         String string;
+        int a=1;
         System.out.println("局部变量不赋值不能使用");
     }
     public static void list(Object object){

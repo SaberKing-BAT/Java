@@ -12,8 +12,15 @@ import java.io.File;
 public class FileTest {
     public static void main(String[] args) {
         createPath("D:\\bv\\vn");
+        fileSuffix("test.java");
     }
-
+    //获取文件后缀
+    public static String fileSuffix(String file){
+        System.out.println(file);
+        String suffix =  file.split("\\.")[1];
+        System.out.println(suffix);
+        return suffix;
+    }
 
     //检测创建目录
     public static void createPath(String filePath){
