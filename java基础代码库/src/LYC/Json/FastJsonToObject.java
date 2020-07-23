@@ -5,6 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.annotation.JSONField;
 
 import java.io.Serializable;
+import java.math.BigDecimal;
 import java.util.Date;
 import java.util.List;
 
@@ -21,11 +22,9 @@ import java.util.List;
 class Person implements Serializable {
     String name;
     int age;
-   @JSONField(format = "yyyy-MM-dd HH:mm:ss")
     Date brith;
-    public Person(){
-
-    }
+    BigDecimal num;
+    public Person(){}
     public Person(String name) {
         this.name = name;
     }
@@ -43,12 +42,12 @@ class Person implements Serializable {
     public void setName(String name) {
         this.name = name;
     }
-
+   // @JSONField(format = "yyyy-MM-dd HH:mm:ss")
     public Date getBrith() {
         return brith;
     }
 
-   // @JSONField(name = "A")
+    //@JSONField(format = "yyyy-MM-dd HH:mm:ss")
     public void setBrith(Date brith) {
         this.brith = brith;
     }
@@ -57,9 +56,17 @@ class Person implements Serializable {
         return age;
     }
 
-    @JSONField(name = "A")
+    //@JSONField(name = "A")
     public void setAge(int age) {
         this.age = age;
+    }
+
+    public BigDecimal getNum() {
+        return num;
+    }
+
+    public void setNum(BigDecimal num) {
+        this.num = num;
     }
 
     @Override
@@ -68,12 +75,13 @@ class Person implements Serializable {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", brith=" + brith +
+                ", num=" + num +
                 '}';
     }
 }
 public class FastJsonToObject {
     public static void jsonAndList(){
-        String jsonStr="{\"data\":[{\"name\":\"123\",\"age\":12,\"brith\":\"2020-12-12 12:12:12\"},{\"name\":\"321\",\"age\":22,\"brith\":\"2020-12-12 12:12:12\"}]}";
+        String jsonStr="{\"data\":[{\"name\":\"123\",\"age\":\"12\",\"brith\":\"2020-12-12 12:12:12\",\"num\":\"2312\"},{\"name\":\"321\",\"age\":\"22\",\"brith\":\"2020-12-12 12:12:12\",\"num\":\"2312\"}]}";
         JSONObject jsonObjectj = JSONObject.parseObject(jsonStr);
         String listStr =  jsonObjectj.getString("data");
         System.out.println(listStr);
@@ -96,7 +104,7 @@ public class FastJsonToObject {
         }
     }
     public static void main(String[] args) {
-       // jsonAndList();
-        jsonAndList2();
+        jsonAndList();
+//        jsonAndList2();
     }
 }

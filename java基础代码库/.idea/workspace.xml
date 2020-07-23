@@ -2,34 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jna_5_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/IO/iostream2xx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/IO/文件/FileTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/IO/编码/EncodingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/JNI/JNA/jna-5.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/lang/MyClassLoader_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/多线程/MemoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/多线程/Voliet/WriterAndRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/集合/Map/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/appFrame/redis/ConnctionToRedis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/appFrame/redis/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/string/RemoveSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/string/SplitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java基础代码库.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java基础代码库.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/ReaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/ReaderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/WriterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/WriterTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/OutputStream_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/OutputStream_Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/TestHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/TestHash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/IO/字符流/ReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/字符流/ReaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/IO/字符流/WriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/字符流/WriterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/FastJsonToObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/FastJsonToObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/TestFastJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/TestFastJson.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LYC/IO/字节流/InputStream_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/字节流/InputStream_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/IO/字节流/OutputStream_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/字节流/OutputStream_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LYC/IO/文件/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/文件/FileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/object/TestHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/object/TestHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/IO/编码/EncodingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/编码/EncodingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/Json/TestFastJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/Json/TestFastJson.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +70,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="D:/zhongyun_work/subway project/code/szsubway" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -96,18 +82,18 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\Java\java基础代码库\src" />
+      <recent name="D:\study\Java\java基础代码库\src\LYC\IO" />
+      <recent name="D:\study\Java\java基础代码库\src\LYC\JNI\JNA" />
+      <recent name="D:\study\Java\java基础代码库\src\appFrame\redis" />
+      <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC\MySQL" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\IDEA" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC" />
       <recent name="D:\study\idea_workspace\java基础代码库\src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\study\Java\java基础代码库\src\LYC\IO" />
-      <recent name="D:\study\Java\java基础代码库\src" />
-      <recent name="D:\study\Java\java基础代码库\src\LYC\JNI\JNA" />
-      <recent name="D:\study\Java\java基础代码库\src\appFrame\redis" />
-      <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -122,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EncodingTest">
+  <component name="RunManager" selected="Application.SplitTest">
     <configuration name="EncodingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LYC.IO.编码.EncodingTest" />
       <module name="java基础代码库" />
@@ -136,12 +122,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputStream_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.IO.字节流.InputStream_Test" />
+    <configuration name="FastJsonToObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.Json.FastJsonToObject" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.IO.字节流.*" />
+          <option name="PATTERN" value="LYC.Json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.IO.文件.FileTest" />
+      <module name="java基础代码库" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LYC.IO.文件.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,25 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputStream_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.IO.字节流.OutputStream_Test" />
+    <configuration name="SplitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.string.SplitTest" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.IO.字节流.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.IO.字符流.WriterTest" />
-      <module name="java基础代码库" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LYC.IO.字符流.*" />
+          <option name="PATTERN" value="LYC.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,19 +175,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InputStream_Test" />
-      <item itemvalue="Application.WriterTest" />
-      <item itemvalue="Application.OutputStream_Test" />
       <item itemvalue="Application.JNA_Test_1" />
+      <item itemvalue="Application.SplitTest" />
+      <item itemvalue="Application.FileTest" />
       <item itemvalue="Application.EncodingTest" />
+      <item itemvalue="Application.FastJsonToObject" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EncodingTest" />
+        <item itemvalue="Application.SplitTest" />
+        <item itemvalue="Application.FileTest" />
+        <item itemvalue="Application.FastJsonToObject" />
         <item itemvalue="Application.JNA_Test_1" />
-        <item itemvalue="Application.InputStream_Test" />
-        <item itemvalue="Application.OutputStream_Test" />
-        <item itemvalue="Application.WriterTest" />
+        <item itemvalue="Application.EncodingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +248,9 @@
       <workItem from="1593612323906" duration="20000" />
       <workItem from="1593651580103" duration="21286000" />
       <workItem from="1594172723489" duration="35419000" />
-      <workItem from="1594369618354" duration="4669000" />
+      <workItem from="1594369618354" duration="21319000" />
+      <workItem from="1594626450375" duration="7887000" />
+      <workItem from="1594861385935" duration="13951000" />
     </task>
     <servers />
   </component>

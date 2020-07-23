@@ -34,7 +34,7 @@ public class InputStream_Test {
         System.out.println(new String(bytes));//Ϊʲô�ֽ������Զ�ȡUnicode 255���ϵĺ��֣���
     }
 
-    public static void bufferInputStream(String filepath) throws IOException {
+    public static byte[] bufferInputStream(String filepath) throws IOException {
        // String filepath="D:\\txt1.txt";
         File file = new File(filepath);
         InputStream inputStream = new FileInputStream(file);
@@ -42,7 +42,8 @@ public class InputStream_Test {
         byte[] bytes = new byte[(int)file.length()];
         bufferedInputStream.read(bytes);
         bufferedInputStream.close();
-        System.out.println(new String(bytes,"gb2312"));
+       // System.out.println(new String(bytes,"gb2312"));
+        return bytes;
     }
 }
 /*

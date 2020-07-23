@@ -78,11 +78,31 @@ public class TestFastJson {
 
         return "";
     }
+
+    /*
+        关于转移字符和路径问题
+        1.在纯额json文件中路径：D:\A\B
+        2.java中D:\\A\\B==D:\A\B
+        3.所以需要String str=D:\\\\A\\\\B
+        4.字符串转移一次变\\,fastjson中在转移一次剩\
+        5.如果只用\\ key:value    那么String value="D:\A\B"是不行的
+        6.总结 json的字符串是包了两层的，所以需要两层转义。 json = "{"key":"value"}"，字符串里的字符串。。
+        7.在replaceAll中为了表示两个需要\\\\,多了一层表面的转义
+     */
+    public static void zhuanyi(){
+        String str = "{\"1\":\"D:\\你啊\\你安抚\\4\"}";
+        System.out.println(str);
+        str=str.replaceAll("\\\\","\\\\\\\\");
+        System.out.println(str);
+        JSONObject jsonObject =JSON.parseObject(str);
+        System.out.println(jsonObject.getString("1"));
+    }
     public static void main(String[] args) {
-        boolean flag = 1>2;
-        System.out.println(flag);
-        //analysisJson();
+       // boolean flag = 1>2;
+        //System.out.println(flag);
+       // analysisJson();
        // packagingJson();
+        zhuanyi();
     }
 }
 

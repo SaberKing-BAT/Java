@@ -11,8 +11,10 @@ import java.io.File;
  **/
 public class FileTest {
     public static void main(String[] args) {
-        createPath("D:\\bv\\vn");
-        fileSuffix("test.java");
+       // createPath("D:\\bv\\vn");
+       // fileSuffix("test.java");
+        //deleteFile("D:\\txt1.txt");
+        removeFile("D:\\ccfTojson\\originalPath\\remove.txt","D:\\ccfTojson\\backupPath\\remove.txt");
     }
     //获取文件后缀
     public static String fileSuffix(String file){
@@ -31,5 +33,20 @@ public class FileTest {
             file.mkdirs();
             System.out.println("目录已经创建！");
         }
+    }
+    //文件删除
+    public static boolean deleteFile(String path){
+        File file=new File(path);
+        boolean flag= file.delete();
+        System.out.println(flag);
+        return flag;
+    }
+    //文件移动
+    public static boolean removeFile(String oldPath,String newPath){
+        File file =new File(oldPath);
+        File newFile = new File(newPath);
+        boolean flag=file.renameTo(newFile);
+        System.out.println(flag);
+        return flag;
     }
 }
