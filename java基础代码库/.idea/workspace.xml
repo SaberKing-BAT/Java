@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LYC/string/RemoveSymbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/string/SplitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/FastJsonToObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/FastJsonToObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/TestFastJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/TestFastJson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/IO/字节流/InputStream_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/字节流/InputStream_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/IO/文件/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/文件/FileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/IO/编码/EncodingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/编码/EncodingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/Json/TestFastJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/Json/TestFastJson.java" afterDir="false" />
-    </list>
+    <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +236,7 @@
       <workItem from="1594172723489" duration="35419000" />
       <workItem from="1594369618354" duration="21319000" />
       <workItem from="1594626450375" duration="7887000" />
-      <workItem from="1594861385935" duration="13951000" />
+      <workItem from="1594861385935" duration="14413000" />
     </task>
     <servers />
   </component>
