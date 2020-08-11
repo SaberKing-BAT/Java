@@ -18,6 +18,8 @@ public class RemoveSymbol {
         System.out.println(str);
     }
     public static void main(String[] args) {
-        test();
+        String str="";
+        System.out.println(str);
+        //test();
     }
 }

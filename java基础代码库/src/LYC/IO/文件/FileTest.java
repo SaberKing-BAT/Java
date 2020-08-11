@@ -12,9 +12,9 @@ import java.io.File;
 public class FileTest {
     public static void main(String[] args) {
        // createPath("D:\\bv\\vn");
-       // fileSuffix("test.java");
+       fileSuffix("test.java");
         //deleteFile("D:\\txt1.txt");
-        removeFile("D:\\ccfTojson\\originalPath\\remove.txt","D:\\ccfTojson\\backupPath\\remove.txt");
+       // removeFile("D:\\ccfTojson\\originalPath\\remove.txt","D:\\ccfTojson\\backupPath\\remove.txt");
     }
     //获取文件后缀
     public static String fileSuffix(String file){

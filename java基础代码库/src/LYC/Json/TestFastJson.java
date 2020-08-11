@@ -97,12 +97,22 @@ public class TestFastJson {
         JSONObject jsonObject =JSON.parseObject(str);
         System.out.println(jsonObject.getString("1"));
     }
+    public static void test(){
+        String  str="{\n" +
+                "    \"list\":[1,2,3]\n" +
+                "}";
+        JSONObject jsonObject=new JSONObject(JSON.parseObject(str));
+        System.out.println(jsonObject.get("list"));
+        JSONArray jsonArray=jsonObject.getJSONArray("list");
+        System.out.println(jsonArray);
+    }
     public static void main(String[] args) {
        // boolean flag = 1>2;
         //System.out.println(flag);
        // analysisJson();
        // packagingJson();
-        zhuanyi();
+        //zhuanyi();
+        test();
     }
 }
 

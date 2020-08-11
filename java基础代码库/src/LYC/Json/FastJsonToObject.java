@@ -84,6 +84,9 @@ public class FastJsonToObject {
         String jsonStr="{\"data\":[{\"name\":\"123\",\"age\":\"12\",\"brith\":\"2020-12-12 12:12:12\",\"num\":\"2312\"},{\"name\":\"321\",\"age\":\"22\",\"brith\":\"2020-12-12 12:12:12\",\"num\":\"2312\"}]}";
         JSONObject jsonObjectj = JSONObject.parseObject(jsonStr);
         String listStr =  jsonObjectj.getString("data");
+        String strNull = jsonObjectj.getString("hh");
+       // if (strNull!=null)
+        System.out.println(strNull);;
         System.out.println(listStr);
         List<Person> people = JSON.parseArray(listStr,Person.class);
         for (Person p:people

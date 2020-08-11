@@ -9,10 +9,10 @@ public class OutputStream_Test {
         //bufferOutputStream();
     }
     public static void outPutStream() throws IOException {
-        String fliePath="D:\\txt1.txt";
+        String fliePath="D:\\t1.txt";
         File file = new File(fliePath);//没有会创建
         OutputStream outputStream = new FileOutputStream(file);
-        byte[] bytes = new String("你好啊").getBytes("gb2312");
+        byte[] bytes= "hello".getBytes();
         outputStream.write(bytes);
         outputStream.close();
     }
