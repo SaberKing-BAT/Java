@@ -11,8 +11,9 @@ import java.io.File;
  **/
 public class FileTest {
     public static void main(String[] args) {
+        test3();
        // createPath("D:\\bv\\vn");
-       fileSuffix("test.java");
+      // fileSuffix("test.java");
         //deleteFile("D:\\txt1.txt");
        // removeFile("D:\\ccfTojson\\originalPath\\remove.txt","D:\\ccfTojson\\backupPath\\remove.txt");
     }
@@ -48,5 +49,9 @@ public class FileTest {
         boolean flag=file.renameTo(newFile);
         System.out.println(flag);
         return flag;
+    }
+    public static void test3(){
+        String path1="D:/";
+        System.out.println(path1);
     }
 }

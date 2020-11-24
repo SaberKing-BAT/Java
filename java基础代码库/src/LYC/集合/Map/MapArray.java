@@ -4,8 +4,8 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.math.BigDecimal;
+import java.util.*;
 
 /**
  * @ClassName MapArray
@@ -44,7 +44,25 @@ public class MapArray {
         System.out.println(str2);
         System.out.println(str);
     }
+    public static void listMap(){
+        Set set=new HashSet(){};
+
+
+        String str="{AS601=4, AS602=51, AS603=332}";
+        Object o=(Object)str;
+        System.out.println(o);
+        Map<Object,Object> map=(Map<Object, Object>)o;
+        for (Object s :map.keySet()
+             ) {
+            System.out.println(s+"="+map.get(s));
+        }
+    }
     public static void main(String[] args) {
-        mapToJson();
+       // mapToJson();
+       // listMap();
+        BigDecimal b=new BigDecimal("23");
+        Map<String,String> map=new HashMap<>();
+        map.put("123",b.toPlainString());
+
     }
 }

@@ -7,5 +7,6 @@ public class LinkListTest {
     public static void main(String[] args) {
         List<String> linkList=new LinkedList<>();
         linkList.contains("123");
+        System.out.println("");
     }
 }

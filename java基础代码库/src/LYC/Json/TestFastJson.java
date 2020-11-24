@@ -98,13 +98,21 @@ public class TestFastJson {
         System.out.println(jsonObject.getString("1"));
     }
     public static void test(){
-        String  str="{\n" +
-                "    \"list\":[1,2,3]\n" +
+        String str="{\n" +
+                "\t\"code\":1,\n" +
+                "\t\"message\":\"成功\",\n" +
+                "\t\"data\":{\n" +
+                "\t\t\"mileage\":5.64,\n" +
+                "\t\t\"channelList\": [\"LACC\", \"VACC\"],\n" +
+                "\t\t\"dataMap\": {\n" +
+                "\t\t\t\"LACC1\":[1,-1,2,-2,3,-3,4],\n" +
+                "\t\t\t\"LACC2\":[1,-1,2,-2,3,-3,4]\n" +
+                "\t\t},\n" +
+                "\t\t\"mileageList\":[1,2,3,4,5,6,7,]\n" +
+                "\t}\n" +
                 "}";
         JSONObject jsonObject=new JSONObject(JSON.parseObject(str));
-        System.out.println(jsonObject.get("list"));
-        JSONArray jsonArray=jsonObject.getJSONArray("list");
-        System.out.println(jsonArray);
+        System.out.println(str);
     }
     public static void main(String[] args) {
        // boolean flag = 1>2;
