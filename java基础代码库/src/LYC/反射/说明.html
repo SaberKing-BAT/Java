@@ -1,0 +1,12 @@
+反射主要用到Class类，该类记录了类的方法，字段等信息，并可以创建新类的实例；
+反射包（reflect）下的Filed字段类、Method方法类（invoke方法可执行类方法）；
+
+Type类是所有java类型的父类，包括基本类型，泛型等 可以利用其来字段Field的类型；
+
+得到Class的方式：类名的.class, 实例.getClass , Class.forName("类的全限定名")
+
+
+
+疑问：
+    1.getRawType()方法返回的实际是Class类型，且不能转成ParameterizedType
+    2.如何获得这样的Field的类型 ：List<Map<String,String>> list

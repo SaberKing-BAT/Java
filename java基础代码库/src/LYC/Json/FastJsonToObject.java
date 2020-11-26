@@ -24,6 +24,7 @@ class Person implements Serializable {
     int age;
     Date brith;
     BigDecimal num;
+    String[] list;
     public Person(){}
     public Person(String name) {
         this.name = name;
@@ -69,6 +70,14 @@ class Person implements Serializable {
         this.num = num;
     }
 
+    public String[] getList() {
+        return list;
+    }
+
+    public void setList(String[] list) {
+        this.list = list;
+    }
+
     @Override
     public String toString() {
         return "Person{" +
@@ -76,6 +85,7 @@ class Person implements Serializable {
                 ", age=" + age +
                 ", brith=" + brith +
                 ", num=" + num +
+                ", list=" + list +
                 '}';
     }
 }
@@ -85,7 +95,6 @@ public class FastJsonToObject {
         JSONObject jsonObjectj = JSONObject.parseObject(jsonStr);
         String listStr =  jsonObjectj.getString("data");
         String strNull = jsonObjectj.getString("hh");
-       // if (strNull!=null)
         System.out.println(strNull);;
         System.out.println(listStr);
         List<Person> people = JSON.parseArray(listStr,Person.class);
@@ -98,7 +107,8 @@ public class FastJsonToObject {
         System.out.println(str);
     }
     public static void jsonAndList2(){
-        String str= "[{\"name\":\"123\",\"A\":12,\"brith\":\"2020-12-12 12:12:12\"}]";
+        //fastjson 不支持数组和几何属性
+        String str= "[{\"name\":\"123\",\"A\":12,\"brith\":\"2020-12-12 12:12:12\",\"list\":\"{\"haha\",\"gaga\"}\"}]";
         List<Person> people = JSON.parseArray(str,Person.class);
         System.out.println(str);
         for (Person p:people
@@ -107,7 +117,7 @@ public class FastJsonToObject {
         }
     }
     public static void main(String[] args) {
-        jsonAndList();
-//        jsonAndList2();
+       // jsonAndList();
+        jsonAndList2();
     }
 }

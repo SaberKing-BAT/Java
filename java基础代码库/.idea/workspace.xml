@@ -2,132 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring_Boot/springboot1_holle/springboot1_holle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_Boot/springboot1_holle/src/main/java/com/lyc/Controller/HellowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_Boot/springboot1_holle/src/main/java/com/lyc/HelloWorldMainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_Boot/springboot1_holle/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_3_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar_config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/IO/文件/FileImg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/IO/文件/草莓.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/Json/FastjsonToObj2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/lang/Runtime/Fwzl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/lang/Runtime/ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/lang/Runtime/WDWUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/lang/Runtime/WindCMD_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/lang/Runtime/WindCMD_Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/lang/Runtime/poi-3.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/lang/Runtime/poi-ooxml-3.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/异常/Exception/TryCath_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/数据结构/动态规划/MatrixAnswer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/数据结构/动态规划/MatrixMultiplation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/泛型/Frist_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/注释/AnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/注释/PepoleName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projects/xfsq_1/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projects/xfsq_1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring_Boot/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/反射/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/反射/StaticProxy_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/反射/说明.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java基础代码库.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java基础代码库.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Data/Data1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Data/Data1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Excel/BaoXiaoDan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Excel/BaoXiaoDan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Excel/excelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Excel/excelTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/ReaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/ReaderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/WriterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字符流/WriterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/FileTraverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/PropertiesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/文件/PropertiesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/编码/EncodingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/IO/编码/EncodingTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JNI/JNA/JNA_Test_1$stdCallDll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JNI/JNA/JNA_Test_1$stdCallDll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JNI/JNA/JNA_Test_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JNI/JNA/JNA_Test_1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/FastJsonToObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/FastJsonToObject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/TestFastJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Json/TestFastJson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Math/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Math/MathTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/MySQL/数据脚本/DA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/MySQL/数据脚本/DA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Util/GenerateUID.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/Util/GenerateUID.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/lang/MyClassLoader_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/lang/MyClassLoader_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/ObjectParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/ObjectParam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/TestHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/TestHash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/annimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/annimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/people.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/people.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/string/SplitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/string/SplitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/函数/ConstructFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/函数/ConstructFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/函数/eg/ThisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/函数/eg/ThisTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/InnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/MemoryTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/MemoryTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/MemoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/MemoryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/RunnableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/RunnableTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/ThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/Voliet/WriterAndRead$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/Voliet/WriterAndRead$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/Voliet/WriterAndRead$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/Voliet/WriterAndRead$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/Voliet/WriterAndRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/Voliet/WriterAndRead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Jifei.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Jifei.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libai.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/序列化/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/序列化/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/Break.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/Continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/Continue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/DoWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/循环语句/IfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/DoubleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/DoubleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/包装类自动拆装箱/NumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/包装类自动拆装箱/NumberTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/类型范围/NumberRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据类型/类型范围/NumberRange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/test/LinkListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/test/LinkListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/FastSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/FastSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/Maopao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/Maopao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/源码分析/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/源码分析/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Bar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/ConstructorExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/ConstructorExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Foo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/StaticTest3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/类加载顺序/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Dali.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Dali.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Shop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$ShopImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$ShopImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/设计模式/结构/Dtdl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/LinkedHashMap/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/LinkedHashMap/SortTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/Map/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/Map/HashMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/Map/MapArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/Map/MapArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/Map/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/Map/Traverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/Map/UpdateMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/集合/Map/UpdateMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Digui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Digui.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Operation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/StaticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/StaticTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/StaticTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/题库/基础/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/appFrame/redis/ConnctionToRedis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/appFrame/redis/ConnctionToRedis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/IO/文件/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/文件/FileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/IO/文件/FileTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/IO/文件/FileTraverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/Json/TestFastJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/Json/TestFastJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/数据结构/test/LinkListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/数据结构/test/LinkListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/集合/Map/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/集合/Map/HashMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/集合/Map/MapArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/集合/Map/MapArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../master分支" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/.idea/dataSources/58809d92-36a6-4f67-b8e8-5b197c234557.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/反射/Test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/META-INF/xfsq_1.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/static/images/banner1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/static/images/banner1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/xfsq_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/springcloud_01/springcloud.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -195,22 +82,22 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\study\Java\java基础代码库\src\LYC\lang\Runtime" />
-      <recent name="D:\study\Java\java基础代码库\src\LYC\IO" />
-      <recent name="D:\study\Java\java基础代码库\src" />
-      <recent name="D:\study\Java\java基础代码库\src\LYC\JNI\JNA" />
-      <recent name="D:\study\Java\java基础代码库\src\appFrame\redis" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="LYC.lang.Runtime" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\study\Java\java基础代码库" />
       <recent name="D:\study\Java\java基础代码库\src\LYC\IO\文件" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC\MySQL" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\IDEA" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LYC.lang.Runtime" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\Java\java基础代码库\src\LYC\lang\Runtime" />
+      <recent name="D:\study\Java\java基础代码库\src\LYC\IO" />
+      <recent name="D:\study\Java\java基础代码库\src" />
+      <recent name="D:\study\Java\java基础代码库\src\LYC\JNI\JNA" />
+      <recent name="D:\study\Java\java基础代码库\src\appFrame\redis" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,9 +112,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WindCMD_Test2">
-    <configuration name="FastjsonToObj2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.Json.FastjsonToObj2" />
+  <component name="RunManager" selected="Application.StaticProxy_Test">
+    <configuration name="FastJsonToObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.Json.FastJsonToObject" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
@@ -239,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fwzl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.lang.Runtime.Fwzl" />
+    <configuration name="StaticProxy_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.反射.StaticProxy_Test" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.lang.Runtime.*" />
+          <option name="PATTERN" value="LYC.反射.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.集合.Map.HashMapTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.反射.Test" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.集合.Map.*" />
+          <option name="PATTERN" value="LYC.反射.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,19 +179,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashMapTest" />
-      <item itemvalue="Application.FastjsonToObj2" />
       <item itemvalue="Application.WindCMD_Test" />
       <item itemvalue="Application.WindCMD_Test2" />
-      <item itemvalue="Application.Fwzl" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.FastJsonToObject" />
+      <item itemvalue="Application.StaticProxy_Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticProxy_Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FastJsonToObject" />
         <item itemvalue="Application.WindCMD_Test2" />
         <item itemvalue="Application.WindCMD_Test" />
-        <item itemvalue="Application.Fwzl" />
-        <item itemvalue="Application.FastjsonToObj2" />
-        <item itemvalue="Application.HashMapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +275,7 @@
       <workItem from="1603779780714" duration="6053000" />
       <workItem from="1604023073104" duration="5668000" />
       <workItem from="1604904424186" duration="30345000" />
-      <workItem from="1606211493079" duration="410000" />
+      <workItem from="1606211493079" duration="35433000" />
     </task>
     <servers />
   </component>
@@ -487,6 +374,46 @@
           <line>17</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/JSONLexerBase.class</url>
+          <line>63</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/JSON.class</url>
+          <line>311</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/JSON.class</url>
+          <line>299</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/JSON.class</url>
+          <line>306</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class</url>
+          <line>488</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class</url>
+          <line>492</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LYC/反射/ClassTest.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/LYC/类加载顺序/StaticTest3.java</url>
           <line>5</line>
@@ -518,6 +445,86 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/JSON.class</url>
+          <line>294</line>
+          <properties class="com.alibaba.fastjson.JSON" method="parseArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class</url>
+          <line>487</line>
+          <properties class="com.alibaba.fastjson.parser.DefaultJSONParser" method="parseArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/ParserConfig.class</url>
+          <line>266</line>
+          <properties class="com.alibaba.fastjson.parser.ParserConfig" method="getDeserializer">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/deserializer/ObjectDeserializer.class</url>
+          <line>11</line>
+          <properties class="com.alibaba.fastjson.parser.deserializer.ObjectDeserializer" method="deserialze">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/deserializer/JavaBeanDeserializer.class</url>
+          <line>176</line>
+          <properties class="com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer" method="deserialze">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/deserializer/JavaBeanDeserializer.class</url>
+          <line>131</line>
+          <properties class="com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer" method="deserialzeArrayMapping">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/deserializer/JavaBeanDeserializer.class</url>
+          <line>86</line>
+          <properties class="com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer" method="createInstance">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/deserializer/JavaBeanDeserializer.class</url>
+          <line>384</line>
+          <properties class="com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer" method="parseField">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LYC/反射/ClassTest.java</url>
+          <line>37</line>
+          <properties class="LYC.反射.Test" method="parsingExcel">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LYC/反射/ClassTest.java</url>
+          <line>96</line>
+          <properties class="LYC.反射.Test" method="feildType">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
