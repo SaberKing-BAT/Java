@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55ad93d1-808c-44c5-92e0-5b1fc978fdff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/src/main/java/com/lyc/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/src/main/java/com/lyc/HelloWorldMainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Spring_Boot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot1_holle/src/main/java/com/lyc/Controller/HellowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot1_holle/src/main/java/com/lyc/Controller/HellowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot1_holle/src/main/java/com/lyc/HelloWorldMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot1_holle/src/main/java/com/lyc/HelloWorldMainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java基础代码库/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java基础代码库/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java基础代码库/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/Data/Data1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/Excel/BaoXiaoDan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/Excel/excelTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/IO/字符流/ReaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/IO/字符流/WriterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/IO/字节流/InputStream_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/IO/字节流/OutputStream_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/IO/文件/FileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/IO/文件/FileTraverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/IO/文件/PropertiesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/IO/编码/EncodingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/JNI/JNA/JNA_Test_1$stdCallDll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/JNI/JNA/JNA_Test_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/Json/FastJsonToObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/Json/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/Json/TestFastJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/Math/MathTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/MySQL/数据脚本/DA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/Util/GenerateUID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/lang/MyClassLoader_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/object/ObjectParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/object/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/object/TestHash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/object/a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/object/annimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/object/people.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/string/RemoveSymbol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/string/SplitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/函数/ConstructFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/函数/eg/ThisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/InnerClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/InnerClass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/MemoryTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/MemoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/RunnableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/ThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/Voliet/WriterAndRead$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/Voliet/WriterAndRead$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/Voliet/WriterAndRead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/多线程_1/Jifei.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/多线程_1/Libai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/多线程/多线程_1/Libaiduanda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/序列化/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/循环语句/Break.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/循环语句/Continue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/循环语句/DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/循环语句/IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/数据类型/DoubleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/数据类型/包装类自动拆装箱/NumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/数据类型/类型范围/NumberRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/数据结构/test/LinkListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/FastSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/数据结构/八大排序算法/交换排序/Maopao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/源码分析/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/类加载顺序/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/类加载顺序/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/类加载顺序/Bar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/类加载顺序/ConstructorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/类加载顺序/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/类加载顺序/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/类加载顺序/StaticTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/类加载顺序/StaticTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/类加载顺序/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Dali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/设计模式/结构/Dtdl$ShopImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/设计模式/结构/Dtdl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/集合/LinkedHashMap/SortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/集合/Map/HashMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/集合/Map/MapArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/集合/Map/Traverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/集合/Map/UpdateMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/题库/基础/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/题库/基础/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/题库/基础/Digui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/题库/基础/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/题库/基础/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/题库/基础/StaticTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/LYC/题库/基础/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java基础代码库/out/production/java基础代码库/appFrame/redis/ConnctionToRedis.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qmhazsUF6CSMxHlJOhx4qxr3rJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ad93d1-808c-44c5-92e0-5b1fc978fdff" name="Default Changelist" comment="" />
+      <created>1617690741351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617690741351</updated>
+      <workItem from="1617690742427" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
