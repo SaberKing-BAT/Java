@@ -2,83 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring_Boot/.idea/Spring_Boot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_ooxml_3_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/$Proxy0.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxyBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Jdk_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Me_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Me_Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/Interfaces_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSMFrame0/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSMFrame0/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/ObjectParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/ObjectParam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/annimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/annimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/people.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/people.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/object/ObjectParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/object/ObjectParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/c3p0.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/ActiveInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/ActiveMan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/GongGao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/GongZry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/LoginForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/PageParams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/PinKun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/Resident.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/Wuyebx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/ActiveInfoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/ActiveManController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/AdminController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/GongGaoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/GongZryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/PinKunController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/ResidentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/SystemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/WuyebxController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/ActiceInfoMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/ActiveManMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/AdminMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/GongGaoMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/GongZryMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/PinKunMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/ResidentMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/WuyebxMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/ActiveService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/AdminService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/GongGaoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/GongZryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/PinKunService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/ResidentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/WuyebxService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/ActiveServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/AdminServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/GongGaoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/GongZryServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/PinKunServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/ResidentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/WuyebxServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/ActiveInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/ActiveManMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/AdminMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/GongGaoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/GongZryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/PinKunMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/ResidentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/WuyebxMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mybatis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/springmvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/test-classes/com/lyc/test/MybatisTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/test-classes/com/lyc/test/SpringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/test-classes/com/lyc/test/jj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/static/images/banner1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/static/images/banner1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Jdk_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Jdk_Test.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,24 +51,24 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSMFrame0" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -164,18 +91,6 @@
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC\MySQL" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\IDEA" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.ObjectParam">
     <configuration name="DynamicProxy_Jdk_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -244,22 +159,35 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DynamicProxy_Test" />
-      <item itemvalue="Application.DynamicProxy_Me_Test" />
       <item itemvalue="Application.DynamicProxy_Jdk_Test" />
+      <item itemvalue="Application.DynamicProxy_Me_Test" />
+      <item itemvalue="Application.DynamicProxy_Test" />
       <item itemvalue="Application.Interfaces_Test" />
       <item itemvalue="Application.ObjectParam" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ObjectParam" />
-        <item itemvalue="Application.DynamicProxy_Jdk_Test" />
         <item itemvalue="Application.Interfaces_Test" />
-        <item itemvalue="Application.DynamicProxy_Me_Test" />
         <item itemvalue="Application.DynamicProxy_Test" />
+        <item itemvalue="Application.DynamicProxy_Me_Test" />
+        <item itemvalue="Application.DynamicProxy_Jdk_Test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -343,83 +271,37 @@
       <workItem from="1606211493079" duration="62776000" />
       <workItem from="1606791328729" duration="3126000" />
       <workItem from="1607497142968" duration="17757000" />
+      <workItem from="1610452590848" duration="3037000" />
+      <workItem from="1610458391671" duration="275000" />
+      <workItem from="1610458683368" duration="245000" />
+      <workItem from="1610458959497" duration="515000" />
+      <workItem from="1610459495005" duration="510000" />
+      <workItem from="1610460035279" duration="1642000" />
+      <workItem from="1614435746915" duration="28000" />
+      <workItem from="1616149858191" duration="2571000" />
+      <workItem from="1618579143061" duration="963000" />
+      <workItem from="1618580135072" duration="1295000" />
+      <workItem from="1618581477095" duration="650000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="361" y="94" key="#Project_Structure" />
-    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" />
-    <state x="279" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
-    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="279" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" />
-    <state x="667" y="342" key="#com.intellij.fileTypes.FileTypeChooser" />
-    <state x="667" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" />
-    <state x="521" y="274" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" />
-    <state x="521" y="274" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="549" y="141" key="#com.intellij.ide.macro.MacrosDialog" />
-    <state x="549" y="141" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" />
-    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" />
-    <state x="498" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" />
-    <state x="498" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="503" y="195" key="EnvironmentVariablesDialog" />
-    <state x="503" y="195" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="686" y="239" key="FileChooserDialogImpl" />
-    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" />
-    <state x="686" y="239" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" />
-    <state x="588" y="345" width="384" height="174" key="Github.CreateGistDialog" />
-    <state x="588" y="345" width="384" height="174" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.bottom" />
-    <state width="1535" height="133" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" />
-    <state width="1919" height="274" key="GridCell.Tab.0.center" />
-    <state width="1535" height="133" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" />
-    <state width="1919" height="274" key="GridCell.Tab.0.left" />
-    <state width="1535" height="133" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" />
-    <state width="1919" height="274" key="GridCell.Tab.0.right" />
-    <state width="1535" height="133" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" />
-    <state x="241" y="119" width="1250" height="716" key="SettingsEditor" />
-    <state x="241" y="119" width="1250" height="716" key="SettingsEditor/0.0.1536.864@0.0.1536.864" />
-    <state x="721" y="297" width="574" height="402" key="com.intellij.history.integration.ui.views.FileHistoryDialog" />
-    <state x="721" y="297" width="574" height="402" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="576" y="326" key="com.intellij.ide.util.TipDialog" />
-    <state x="461" y="261" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="576" y="326" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" />
-    <state x="457" y="64" width="621" height="735" key="find.popup" />
-    <state x="457" y="64" width="621" height="735" key="find.popup/0.0.1536.864@0.0.1536.864" />
-    <state width="600" height="424" key="javadoc.popup" />
-    <state width="600" height="424" key="javadoc.popup/0.0.1536.864@0.0.1536.864" />
-    <state x="177" y="126" key="new project wizard" />
-    <state x="177" y="126" key="new project wizard/0.0.1536.864@0.0.1536.864" />
-    <state x="449" y="290" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" />
-    <state x="449" y="290" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" />
-    <state x="838" y="289" key="svn.repositoryBrowser" />
-    <state x="838" y="289" key="svn.repositoryBrowser/0.0.1536.864@0.0.1536.864" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -448,11 +330,6 @@
           <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/JSONLexerBase.class</url>
           <line>63</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java</url>
-          <line>111</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/JSON.class</url>
@@ -527,7 +404,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class</url>
           <line>487</line>
-          <properties class="com.alibaba.fastjson.parser.DefaultJSONParser" method="parseArray">
+          <properties class="com.alibaba.fastjson.parser.DefaultJSONParser">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="20" />
@@ -575,7 +452,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/deserializer/JavaBeanDeserializer.class</url>
           <line>384</line>
-          <properties class="com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer" method="parseField">
+          <properties class="com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="28" />
