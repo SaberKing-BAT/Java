@@ -1,0 +1,40 @@
+
+server:
+  port: 8080
+  address: 127.0.0.1
+spring:
+  profiles:
+    active:
+---
+
+server:
+  port: 8081
+spring:
+  config:
+    activate:
+      on-profile: debug    # 2.4 版本这样配名字
+debug: true
+
+
+---
+server:
+  port: 8082
+spring:
+  config:
+    activate:
+      on-profile: config
+person:
+  lastName: lili
+  age: 18
+  boss: false
+  brith: 2020/12/12
+  list:
+    - 1
+    - li
+    - wa
+#  list: [1,li,wa]   #内行写法
+  maps:
+    l: l
+    y: y
+    c: c
+# maps: {l:l ,y:y,c:c}

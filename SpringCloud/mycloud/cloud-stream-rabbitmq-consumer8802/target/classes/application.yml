@@ -1,0 +1,39 @@
+server:
+  port: 8802
+spring:
+  application:
+    name: cloud-stream-consuer
+  rabbitmq:
+    host: 192.168.3.101
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: my_vhost
+  cloud:
+    stream:
+      binders:  #在此处配置要绑定的rabbitmq的服务信息；
+        defaultRabbit: #表示定义的名称，用户和binding整合
+          type: rabbit #消息组件的类型
+          environment: #设置rabbitmq的相关环境配置
+            spring:
+              rabbitmq:
+                host: 192.168.3.101
+                port: 5672
+                username: admin
+                password: admin
+                virtual-host: my_vhost
+      bindings:
+        input:
+          destination: studyExchange
+          content-type: application/json
+          binder: defaultRabbit
+          group: lycA
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    lease-renewal-interval-in-seconds: 2
+    lease-expiration-duration-in-seconds: 5
+    prefer-ip-address: true
+    instance-id: receive-8802.com  #在信息列表时显示主机名称
