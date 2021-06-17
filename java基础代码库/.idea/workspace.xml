@@ -2,90 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring_Boot/.idea/Spring_Boot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_ooxml_3_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/$Proxy0.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxyBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Jdk_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Me_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Me_Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LYC/反射/Interfaces_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/ObjectParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/ObjectParam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/annimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/annimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/people.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/object/people.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/object/ObjectParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/object/ObjectParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LYC/反射/DynamicProxy_Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/c3p0.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/ActiveInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/ActiveMan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/GongGao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/GongZry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/LoginForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/PageParams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/PinKun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/Resident.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/bean/Wuyebx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/ActiveInfoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/ActiveManController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/AdminController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/GongGaoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/GongZryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/PinKunController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/ResidentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/SystemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/controller/WuyebxController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/ActiceInfoMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/ActiveManMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/AdminMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/GongGaoMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/GongZryMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/PinKunMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/ResidentMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/dao/WuyebxMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/ActiveService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/AdminService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/GongGaoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/GongZryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/PinKunService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/ResidentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/WuyebxService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/ActiveServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/AdminServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/GongGaoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/GongZryServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/PinKunServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/ResidentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/com/lyc/service/serviceImpl/WuyebxServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/ActiveInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/ActiveManMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/AdminMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/GongGaoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/GongZryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/PinKunMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/ResidentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mapper/WuyebxMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/mybatis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/classes/springmvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/test-classes/com/lyc/test/MybatisTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/test-classes/com/lyc/test/SpringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/test-classes/com/lyc/test/jj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/static/images/banner1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/xfsq_1/target/xfsq_1/static/images/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-consumer-nacos-order84/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/OrderNacosMain84.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/config/ApplicationContextConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/controller/CircleBreakerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9003/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9003/target/classes/com/lyc/springcloud/PaymentMain9003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9003/target/classes/com/lyc/springcloud/controller/PaymentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9004/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9004/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9004/target/classes/com/lyc/springcloud/PaymentMain9004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9004/target/classes/com/lyc/springcloud/controller/PaymentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/mycloud.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/mycloud.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/JDBC/Oracle/Conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/JDBC/Oracle/DataOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/JDBC/Oracle/ojdbc-11.2.0.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LYC/集合/Map/MyCustomMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-config-nacos-client3377/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-config-nacos-client3377/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9002/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9002/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-provider-payment9002/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-eureka-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-eureka-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-hystrix-feign-consumer-order80/src/main/java/com/lyc/springcloud/controller/OrderHystirxController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-hystrix-feign-consumer-order80/src/main/java/com/lyc/springcloud/controller/OrderHystirxController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderHystirxController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderHystirxController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-openfeign-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-openfeign-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-openfeign-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-openfeign-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCloud/mycloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Boot/springboot1_holle/src/main/java/com/lyc/Controller/HellowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_Boot/springboot1_holle/src/main/java/com/lyc/Controller/HellowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Boot/springboot1_holle/src/main/java/com/lyc/HelloWorldMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_Boot/springboot1_holle/src/main/java/com/lyc/HelloWorldMainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/JDBC/MySQL/Jdbc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/JDBC/MySQL/Jdbc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/源码分析/ITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/源码分析/ITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LYC/集合/Map/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/集合/Map/Traverse.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -115,47 +70,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="JRebelWorkspace">
-    <option name="jrebelEnabledAutocompile" value="true" />
-  </component>
   <component name="ProjectId" id="1Y7CBO110mUxuA8PlgUE3u6SQi0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/LYC/JDBC/Oracle" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
-    <selection>jr</selection>
+    <selection>jxr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\Java\java基础代码库\src\LYC\JDBC\Oracle" />
       <recent name="D:\study\Java\java基础代码库\src\LYC\lang\Runtime" />
       <recent name="D:\study\Java\java基础代码库\src\LYC\IO" />
       <recent name="D:\study\Java\java基础代码库\src" />
       <recent name="D:\study\Java\java基础代码库\src\LYC\JNI\JNA" />
-      <recent name="D:\study\Java\java基础代码库\src\appFrame\redis" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="LYC.lang.Runtime" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\study\Java\java基础代码库\src\LYC\反射" />
@@ -164,26 +113,17 @@
       <recent name="D:\study\idea_workspace\java基础代码库\src\LYC\JDBC\MySQL" />
       <recent name="D:\study\idea_workspace\java基础代码库\src\IDEA" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LYC.lang.Runtime" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ObjectParam">
-    <configuration name="DynamicProxy_Jdk_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.反射.DynamicProxy_Jdk_Test" />
+  <component name="RunManager" selected="Application.DataOperate">
+    <configuration name="DataOperate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.JDBC.Oracle.DataOperate" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.反射.*" />
+          <option name="PATTERN" value="LYC.JDBC.Oracle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,25 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicProxy_Me_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.反射.DynamicProxy_Me_Test" />
+    <configuration name="ITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.源码分析.ITest" />
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LYC.反射.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicProxy_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LYC.反射.DynamicProxy_Test" />
-      <module name="java基础代码库" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LYC.反射.*" />
+          <option name="PATTERN" value="LYC.源码分析.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,6 +157,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Jdbc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.JDBC.MySQL.Jdbc1" />
+      <module name="java基础代码库" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LYC.JDBC.MySQL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjectParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LYC.object.ObjectParam" />
       <module name="java基础代码库" />
@@ -243,23 +183,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DynamicProxy_Test" />
-      <item itemvalue="Application.DynamicProxy_Me_Test" />
-      <item itemvalue="Application.DynamicProxy_Jdk_Test" />
       <item itemvalue="Application.Interfaces_Test" />
       <item itemvalue="Application.ObjectParam" />
+      <item itemvalue="Application.ITest" />
+      <item itemvalue="Application.Jdbc1" />
+      <item itemvalue="Application.DataOperate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataOperate" />
+        <item itemvalue="Application.Jdbc1" />
+        <item itemvalue="Application.ITest" />
         <item itemvalue="Application.ObjectParam" />
-        <item itemvalue="Application.DynamicProxy_Jdk_Test" />
         <item itemvalue="Application.Interfaces_Test" />
-        <item itemvalue="Application.DynamicProxy_Me_Test" />
-        <item itemvalue="Application.DynamicProxy_Test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -343,83 +295,66 @@
       <workItem from="1606211493079" duration="62776000" />
       <workItem from="1606791328729" duration="3126000" />
       <workItem from="1607497142968" duration="17757000" />
+      <workItem from="1615210332742" duration="340000" />
+      <workItem from="1616377690300" duration="1255000" />
+      <workItem from="1616379142325" duration="299000" />
+      <workItem from="1616379454765" duration="210000" />
+      <workItem from="1616379678554" duration="61000" />
+      <workItem from="1616379763036" duration="1226000" />
+      <workItem from="1616391082407" duration="597000" />
+      <workItem from="1616461981800" duration="705000" />
+      <workItem from="1616549406684" duration="608000" />
+      <workItem from="1616634952660" duration="595000" />
+      <workItem from="1616738933012" duration="595000" />
+      <workItem from="1617067418397" duration="595000" />
+      <workItem from="1617153946264" duration="824000" />
+      <workItem from="1617675722225" duration="30000" />
+      <workItem from="1617675766634" duration="2526000" />
+      <workItem from="1619665150897" duration="6012000" />
+      <workItem from="1619745756188" duration="598000" />
+      <workItem from="1620264118104" duration="915000" />
+      <workItem from="1620610076187" duration="689000" />
+      <workItem from="1620783112501" duration="214000" />
+      <workItem from="1620783491121" duration="595000" />
+      <workItem from="1620957105779" duration="598000" />
+      <workItem from="1621215551042" duration="1558000" />
+      <workItem from="1621303415851" duration="597000" />
+      <workItem from="1621474873795" duration="596000" />
+      <workItem from="1621477211618" duration="262000" />
+      <workItem from="1621477504582" duration="1650000" />
+      <workItem from="1622101512290" duration="1823000" />
+      <workItem from="1622165745385" duration="332000" />
+      <workItem from="1622166095047" duration="1736000" />
+      <workItem from="1622426837194" duration="184000" />
+      <workItem from="1622427038927" duration="582000" />
+      <workItem from="1622511645834" duration="1195000" />
+      <workItem from="1622530123308" duration="596000" />
+      <workItem from="1623895827309" duration="10161000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="361" y="94" key="#Project_Structure" />
-    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" />
-    <state x="279" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
-    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="279" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" />
-    <state x="667" y="342" key="#com.intellij.fileTypes.FileTypeChooser" />
-    <state x="667" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" />
-    <state x="521" y="274" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" />
-    <state x="521" y="274" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="549" y="141" key="#com.intellij.ide.macro.MacrosDialog" />
-    <state x="549" y="141" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" />
-    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" />
-    <state x="498" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" />
-    <state x="498" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="503" y="195" key="EnvironmentVariablesDialog" />
-    <state x="503" y="195" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="686" y="239" key="FileChooserDialogImpl" />
-    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" />
-    <state x="686" y="239" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" />
-    <state x="588" y="345" width="384" height="174" key="Github.CreateGistDialog" />
-    <state x="588" y="345" width="384" height="174" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.bottom" />
-    <state width="1535" height="133" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" />
-    <state width="1919" height="274" key="GridCell.Tab.0.center" />
-    <state width="1535" height="133" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" />
-    <state width="1919" height="274" key="GridCell.Tab.0.left" />
-    <state width="1535" height="133" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" />
-    <state width="1919" height="274" key="GridCell.Tab.0.right" />
-    <state width="1535" height="133" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" />
-    <state width="1919" height="274" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" />
-    <state x="241" y="119" width="1250" height="716" key="SettingsEditor" />
-    <state x="241" y="119" width="1250" height="716" key="SettingsEditor/0.0.1536.864@0.0.1536.864" />
-    <state x="721" y="297" width="574" height="402" key="com.intellij.history.integration.ui.views.FileHistoryDialog" />
-    <state x="721" y="297" width="574" height="402" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="576" y="326" key="com.intellij.ide.util.TipDialog" />
-    <state x="461" y="261" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="576" y="326" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" />
-    <state x="457" y="64" width="621" height="735" key="find.popup" />
-    <state x="457" y="64" width="621" height="735" key="find.popup/0.0.1536.864@0.0.1536.864" />
-    <state width="600" height="424" key="javadoc.popup" />
-    <state width="600" height="424" key="javadoc.popup/0.0.1536.864@0.0.1536.864" />
-    <state x="177" y="126" key="new project wizard" />
-    <state x="177" y="126" key="new project wizard/0.0.1536.864@0.0.1536.864" />
-    <state x="449" y="290" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" />
-    <state x="449" y="290" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" />
-    <state x="838" y="289" key="svn.repositoryBrowser" />
-    <state x="838" y="289" key="svn.repositoryBrowser/0.0.1536.864@0.0.1536.864" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../git_repository1" />
+      <path value="$PROJECT_DIR$/../../git_repository1/myrep1" />
+      <path value="$PROJECT_DIR$/../../git_repository1/myrep2" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,6 +419,11 @@
           <line>115</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LYC/JDBC/MySQL/Jdbc1.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/LYC/类加载顺序/StaticTest3.java</url>
           <line>5</line>
@@ -527,7 +467,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class</url>
           <line>487</line>
-          <properties class="com.alibaba.fastjson.parser.DefaultJSONParser" method="parseArray">
+          <properties class="com.alibaba.fastjson.parser.DefaultJSONParser">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="20" />
@@ -575,7 +515,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/deserializer/JavaBeanDeserializer.class</url>
           <line>384</line>
-          <properties class="com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer" method="parseField">
+          <properties class="com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="28" />

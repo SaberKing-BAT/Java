@@ -12,19 +12,38 @@ import java.util.Map;
  * @Version 1.0
  **/
 public class Traverse {
-    public static void main(String[] args) {
+    Map<String, String> map=null ;
+    public void  initMap(){
+        map=new HashMap<>();
+        for (int i=0;i<100000;i++){
+            map.put(String.valueOf(i),String.valueOf(i));
+        }
+    }
+    //第一种：普遍使用，二次取值
+    public void keySet(){
+        System.out.println("通过Map.keySet遍历key和value：");
+        long startTime =System.currentTimeMillis();
+        for (String key : map.keySet()) {
+            System.out.println("key= "+ key + " and value= " + map.get(key));
+        }
+        long endTime=System.currentTimeMillis();
+        long useTime=endTime-startTime;
+        System.out.println("总用时："+useTime);
+    }
 
+    public void Iterrator(){
+
+    }
+
+
+    public static void main(String[] args) {
         // 构建一个Map 初始值为3条数据
         Map<String, String> map = new HashMap<String, String>();
         map.put("1", "xiaqiu");
         map.put("2", "pangzi");
         map.put("3", "shouzi");
 
-        //第一种：普遍使用，二次取值
-        System.out.println("通过Map.keySet遍历key和value：");
-        for (String key : map.keySet()) {
-            System.out.println("key= "+ key + " and value= " + map.get(key));
-        }
+
 
         //第二种:通过Iterator迭代器遍历循环Map.entrySet().iterator();
         System.out.println("通过Map.entrySet使用iterator遍历key和value：");
