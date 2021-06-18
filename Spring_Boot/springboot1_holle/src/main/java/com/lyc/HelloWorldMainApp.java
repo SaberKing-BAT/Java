@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @SpringBootApplication
-public class HelloWorldMainApp  {
+public class HelloWorldMainApp {
 
     public static void main(String[] args) throws Exception {
         SpringApplication.run(HelloWorldMainApp.class, args);

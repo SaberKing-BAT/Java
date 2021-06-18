@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-consumer-nacos-order84/target/classes/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SpringCloud/mycloud/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/OrderNacosMain84.class" afterDir="false" />
@@ -37,6 +38,9 @@
       <change beforePath="$PROJECT_DIR$/src/LYC/源码分析/ITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/源码分析/ITest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LYC/集合/Map/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LYC/集合/Map/Traverse.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="0365d1f3-03e9-4688-87c9-076d3498ff22" name="Default Changelist" comment="" />
+>>>>>>> 66666c780641aafffebf60e09a6478eec24ed074
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,9 +121,15 @@
       <recent name="LYC.lang.Runtime" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.DataOperate">
     <configuration name="DataOperate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LYC.JDBC.Oracle.DataOperate" />
+=======
+  <component name="RunManager" selected="Application.ObjectParam">
+    <configuration name="DynamicProxy_Jdk_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LYC.反射.DynamicProxy_Jdk_Test" />
+>>>>>>> 66666c780641aafffebf60e09a6478eec24ed074
       <module name="java基础代码库" />
       <extension name="coverage">
         <pattern>
@@ -195,6 +205,12 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
+=======
+      <item itemvalue="Application.DynamicProxy_Jdk_Test" />
+      <item itemvalue="Application.DynamicProxy_Me_Test" />
+      <item itemvalue="Application.DynamicProxy_Test" />
+>>>>>>> 66666c780641aafffebf60e09a6478eec24ed074
       <item itemvalue="Application.Interfaces_Test" />
       <item itemvalue="Application.ObjectParam" />
       <item itemvalue="Application.ITest" />
@@ -208,9 +224,30 @@
         <item itemvalue="Application.ITest" />
         <item itemvalue="Application.ObjectParam" />
         <item itemvalue="Application.Interfaces_Test" />
+<<<<<<< HEAD
       </list>
     </recent_temporary>
   </component>
+=======
+        <item itemvalue="Application.DynamicProxy_Test" />
+        <item itemvalue="Application.DynamicProxy_Me_Test" />
+        <item itemvalue="Application.DynamicProxy_Jdk_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+>>>>>>> 66666c780641aafffebf60e09a6478eec24ed074
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -295,6 +332,7 @@
       <workItem from="1606211493079" duration="62776000" />
       <workItem from="1606791328729" duration="3126000" />
       <workItem from="1607497142968" duration="17757000" />
+<<<<<<< HEAD
       <workItem from="1615210332742" duration="340000" />
       <workItem from="1616377690300" duration="1255000" />
       <workItem from="1616379142325" duration="299000" />
@@ -330,6 +368,20 @@
       <workItem from="1622511645834" duration="1195000" />
       <workItem from="1622530123308" duration="596000" />
       <workItem from="1623895827309" duration="10161000" />
+=======
+      <workItem from="1610452590848" duration="3037000" />
+      <workItem from="1610458391671" duration="275000" />
+      <workItem from="1610458683368" duration="245000" />
+      <workItem from="1610458959497" duration="515000" />
+      <workItem from="1610459495005" duration="510000" />
+      <workItem from="1610460035279" duration="1642000" />
+      <workItem from="1614435746915" duration="28000" />
+      <workItem from="1616149858191" duration="2571000" />
+      <workItem from="1618579143061" duration="963000" />
+      <workItem from="1618580135072" duration="1295000" />
+      <workItem from="1618581477095" duration="650000" />
+      <workItem from="1621866629108" duration="1551000" />
+>>>>>>> 66666c780641aafffebf60e09a6478eec24ed074
     </task>
     <servers />
   </component>
@@ -350,11 +402,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+<<<<<<< HEAD
     <ignored-roots>
       <path value="$PROJECT_DIR$/../../git_repository1" />
       <path value="$PROJECT_DIR$/../../git_repository1/myrep1" />
       <path value="$PROJECT_DIR$/../../git_repository1/myrep2" />
     </ignored-roots>
+=======
+>>>>>>> 66666c780641aafffebf60e09a6478eec24ed074
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -383,11 +438,6 @@
           <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/parser/JSONLexerBase.class</url>
           <line>63</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LYC/Json/FastJsonToObject.java</url>
-          <line>111</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$PROJECT_DIR$/src/LYC/Json/fastjson-1.1.41.jar!/com/alibaba/fastjson/JSON.class</url>

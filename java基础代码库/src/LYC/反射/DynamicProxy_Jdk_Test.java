@@ -22,8 +22,6 @@ class SubjectImpl implements  Subject{
     }
 }
 
-
-
 class MyProxyModel implements InvocationHandler{
     private Object subject;
     public MyProxyModel(Object subject) {

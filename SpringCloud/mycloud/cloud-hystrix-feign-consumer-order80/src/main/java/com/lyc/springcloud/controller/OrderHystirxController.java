@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class OrderHystirxController {
     @Autowired
     private PaymentHystrixService paymentHystrixService;
+
     @GetMapping("/consumer/payment/hystrix/ok/{id}")
     public String paymentInfo_OK(@PathVariable("id") Integer id)
     {

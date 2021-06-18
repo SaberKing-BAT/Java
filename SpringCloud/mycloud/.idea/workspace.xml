@@ -5,79 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d03cef9a-a8c0-471d-8fe0-14d304e84fe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/java/com/lyc/springcloud/NacosConfigClientMain3377.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/java/com/lyc/springcloud/controller/ConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/com/lyc/springcloud/NacosConfigClientMain3377.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/com/lyc/springcloud/controller/ConfigController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/java/com/lyc/springcloud/OrderNacosMain83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/java/com/lyc/springcloud/config/ApplicationContextBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/java/com/lyc/springcloud/controller/OrderNacosController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/classes/com/lyc/springcloud/OrderNacosMain83.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/classes/com/lyc/springcloud/config/ApplicationContextBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/classes/com/lyc/springcloud/controller/OrderNacosController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/com/lyc/springcloud/PaymentMain9001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/com/lyc/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/classes/springcloud/PaymentMain9002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/classes/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-consumer-order80/target/test-classes/TestInt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/lyc/springcloud/GateWayMain9527.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/test-classes/TimeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-hystrix-consumer-dashboard9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-hystrix-consumer-dashboard9001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-hystrix-consumer-dashboard9001/target/classes/com/lyc/springcloud/HystrixDashboardMain9001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/OrderHystrixMain80.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderHystirxController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/service/PaymentHystrixService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/target/classes/com/lyc/springcloud/StreamMQMain8802.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/target/classes/com/lyc/springcloud/controller/ReceiveMessageListenerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/target/classes/springcloud/StreamMQMain8803.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/target/classes/springcloud/controller/ReceiveMessageListenerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/lyc/springcloud/StreamMQMain8801.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/lyc/springcloud/controller/SendMessageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/lyc/springcloud/service/IMessageProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/lyc/springcloud/service/impl/MessageProviderImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-zk-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderZKController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring_Boot/myspringboot/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring_Boot/spring-boot-01-helloworld-quick/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring_Boot/spring-boot-01-helloworld-quick/src/main/java/com/lyc/SpringBoot01HelloworldQuickApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring_Boot/spring-boot-01-helloworld-quick/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring_Boot/spring-boot-01-helloworld-quick/src/test/java/com/lyc/SpringBoot01HelloworldQuickApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring_Boot/spring-boot-01-helloworld/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring_Boot/spring-boot-01-helloworld/src/main/java/com/lyc/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring_Boot/spring-boot-01-helloworld/src/main/java/com/lyc/HelloWorldMainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/源码分析/ITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/OrderNacosMain84.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/config/ApplicationContextConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/controller/CircleBreakerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9003/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9003/target/classes/com/lyc/springcloud/PaymentMain9003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9003/target/classes/com/lyc/springcloud/controller/PaymentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/target/classes/com/lyc/springcloud/PaymentMain9004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/target/classes/com/lyc/springcloud/controller/PaymentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycloud.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycloud.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/Oracle/Conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/Oracle/DataOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/Oracle/ojdbc-11.2.0.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/集合/Map/MyCustomMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/src/main/java/com/lyc/springcloud/controller/OrderHystirxController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/src/main/java/com/lyc/springcloud/controller/OrderHystirxController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderHystirxController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderHystirxController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring_Boot/springboot1_holle/src/main/java/com/lyc/Controller/HellowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring_Boot/springboot1_holle/src/main/java/com/lyc/Controller/HellowController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring_Boot/springboot1_holle/src/main/java/com/lyc/HelloWorldMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring_Boot/springboot1_holle/src/main/java/com/lyc/HelloWorldMainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/MySQL/Jdbc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/MySQL/Jdbc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/源码分析/ITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/源码分析/ITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/集合/Map/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/集合/Map/Traverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -93,6 +67,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -123,11 +100,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/src/main/resources" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/lyc/springcloud/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../workspace/zhongyun_work/shy project/GdbPortal" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.29804373" />
+    <property name="project.structure.side.proportion" value="0.41516587" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ReactorSettings">
@@ -138,16 +117,23 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\study\Java\SpringCloud\mycloud\cloud-alibaba-provider-payment9002\src\main\resources" />
-      <recent name="D:\study\Java\SpringCloud\mycloud\cloud-alibaba-provider-payment9002\src\main\java" />
-      <recent name="D:\study\Java\SpringCloud\mycloud\cloud-stream-rabbitmq-consumer8803\src\main\java" />
-      <recent name="D:\study\Java\SpringCloud\mycloud\cloud-stream-rabbitmq-consumer8803\src\main\resources" />
-      <recent name="D:\study\Java\SpringCloud\mycloud\cloud-consul-consumer-order80\src\main\resources" />
+      <recent name="D:\study\Java\SpringCloud\mycloud\seata-account-service2003\src\main\resources" />
+      <recent name="D:\study\Java\SpringCloud\mycloud\seata-account-service2003\src\main\java\com\lyc\springcloud" />
+      <recent name="D:\study\Java\SpringCloud\mycloud\seata-storage-service2002\src\main\resources" />
+      <recent name="D:\study\Java\SpringCloud\mycloud\seata-storage-service2002\src\main\java\com\lyc\springcloud\domain" />
+      <recent name="D:\study\Java\SpringCloud\mycloud\seata-storage-service2002\src\main\java\com\lyc\springcloud\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\Java\SpringCloud\mycloud\seata-account-service2003\src\main\resources" />
+      <recent name="D:\study\Java\SpringCloud\mycloud\seata-storage-service2002\src\main\java" />
+      <recent name="D:\study\Java\SpringCloud\mycloud\cloud-alibaba-sentinel-service8401\src\main\sentinel-console" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lyc.springcloud.config" />
       <recent name="com.lyc.springcloud" />
+      <recent name="com.lyc.springcloud.dao" />
       <recent name="com.lyc.springcloud.controller" />
+      <recent name="com.lyc.springcloud.service.impl" />
+      <recent name="com.lyc.springcloud.service" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -163,6 +149,11 @@
       </list>
     </option>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn idea:idea" />
+    </option>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -170,7 +161,41 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.NacosConfigClientMain3377">
+  <component name="RunManager" selected="Application.test">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyc.springcloud.test" />
+      <module name="seata-storage-service2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in seata-storage-service2002" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.EurekaMain7001" />
@@ -206,14 +231,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-alibaba-config-nacos-client3377" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lyc.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.NacosConfigClientMain3377" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -233,14 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-alibaba-consumer-nacos-order83" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lyc.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.OrderNacosMain83" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -296,14 +309,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="PaymentMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-alibaba-provider-payment9001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lyc.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.PaymentMain9001" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -318,6 +325,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeataAccountMainApp2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.SeataAccountMainApp2003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMainApp2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.SeataOrderMainApp2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataStorageServiceApplication2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.SeataStorageServiceApplication2002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamMQMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-stream-rabbitmq-provider8801" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.StreamMQMain8801" />
@@ -325,41 +371,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamMQMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamMQMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8802" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.StreamMQMain8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-stream-rabbitmq-consumer8803" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.StreamMQMain8803" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
-      <deployment type="docker-image">
-        <settings>
-          <option name="imageTag" value="openzipkin/zipkin:latest" />
-          <option name="command" value="" />
-          <option name="containerName" value="zipkin" />
-          <option name="entrypoint" value="" />
-          <option name="portBindings">
-            <list>
-              <DockerPortBindingImpl>
-                <option name="containerPort" value="9411" />
-                <option name="hostPort" value="9411" />
-              </DockerPortBindingImpl>
-            </list>
-          </option>
-          <option name="commandLineOptions" value="-d" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Docker.Docker Image" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="JUnit.All in seata-storage-service2002" />
       <item itemvalue="Spring Boot.EurekaMain7001" />
       <item itemvalue="Spring Boot.EurekaMain7002" />
       <item itemvalue="Spring Boot.PaymentMain8004" />
@@ -376,18 +404,22 @@
       <item itemvalue="Spring Boot.MainApp80 (1)" />
       <item itemvalue="Spring Boot.PaymentMain8001 (1)" />
       <item itemvalue="Spring Boot.StreamMQMain8801" />
+      <item itemvalue="Spring Boot.StreamMQMain8802" />
       <item itemvalue="Spring Boot.StreamMQMain8803" />
       <item itemvalue="Spring Boot.PaymentMain9001" />
-      <item itemvalue="Spring Boot.OrderNacosMain83" />
       <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
+      <item itemvalue="Spring Boot.OrderNacosMain83" />
+      <item itemvalue="Spring Boot.SeataStorageServiceApplication2002" />
+      <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
+      <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
-        <item itemvalue="Spring Boot.OrderNacosMain83" />
-        <item itemvalue="Spring Boot.PaymentMain9001" />
-        <item itemvalue="Docker.Docker Image" />
-        <item itemvalue="Spring Boot.StreamMQMain8803" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
+        <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
+        <item itemvalue="Spring Boot.SeataStorageServiceApplication2002" />
+        <item itemvalue="JUnit.All in seata-storage-service2002" />
       </list>
     </recent_temporary>
   </component>
@@ -412,6 +444,29 @@
       <workItem from="1620783488213" duration="23119000" />
       <workItem from="1620956178461" duration="600000" />
       <workItem from="1620957102863" duration="6117000" />
+      <workItem from="1621215551220" duration="3015000" />
+      <workItem from="1621303417940" duration="21486000" />
+      <workItem from="1621474873795" duration="2192000" />
+      <workItem from="1621477233747" duration="240000" />
+      <workItem from="1621477500289" duration="8427000" />
+      <workItem from="1621758795382" duration="20085000" />
+      <workItem from="1622082407138" duration="596000" />
+      <workItem from="1622165752805" duration="326000" />
+      <workItem from="1622166112633" duration="814000" />
+      <workItem from="1622426847907" duration="176000" />
+      <workItem from="1622427070290" duration="1193000" />
+      <workItem from="1622511654299" duration="1193000" />
+      <workItem from="1622530130797" duration="44057000" />
+      <workItem from="1622881532482" duration="2310000" />
+      <workItem from="1622887066225" duration="5792000" />
+      <workItem from="1623046064628" duration="16058000" />
+      <workItem from="1623133534441" duration="10247000" />
+      <workItem from="1623305194393" duration="651000" />
+      <workItem from="1623309826319" duration="603000" />
+      <workItem from="1623314735472" duration="1196000" />
+      <workItem from="1623721479485" duration="5999000" />
+      <workItem from="1623740544514" duration="3652000" />
+      <workItem from="1623892831134" duration="2547000" />
     </task>
     <servers />
   </component>
@@ -449,20 +504,39 @@
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/cloud-alibaba-sentinel-service8401/src/main/java/com/lyc/springcloud/controller/FlowLimitController.java</url>
+          <line>14</line>
+          <properties class="com.lyc.springcloud.controller.FlowLimitController" method="testA" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/src/main/java/com/lyc/springcloud/service/PaymentService.java</url>
+          <line>10</line>
+          <properties class="com.lyc.springcloud.service.PaymentService" method="paymentSQL">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
           <url>jar://$PROJECT_DIR$/../../../../application/technologyApp/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.1.RELEASE/spring-cloud-netflix-ribbon-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonAutoConfiguration.class</url>
           <line>95</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://$PROJECT_DIR$/../../../../application/technologyApp/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/RoundRobinRule.class</url>
           <line>71</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/lyc/springcloud/StreamMQMain8801.java</url>
           <line>6</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/src/main/java/com/lyc/springcloud/controller/CircleBreakerController.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
