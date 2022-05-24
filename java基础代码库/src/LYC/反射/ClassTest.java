@@ -137,7 +137,7 @@ public class ClassTest {
     public static void main(String[] args) throws InstantiationException, IllegalAccessException, NoSuchMethodException, InvocationTargetException, NoSuchFieldException {
         //test1(A.class);
         //parsingExcel(A.class,new String[]{"setName","setAge"});
-        //printTypeName(int.class);
+        printTypeName(int.class);
         // feildType("b");
         feildType("list");
         //feildType("ints");

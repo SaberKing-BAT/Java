@@ -1,9 +1,6 @@
 package LYC.JDBC.Oracle;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
 public class DataOperate {
     Connection connection=null;
@@ -21,6 +18,15 @@ public class DataOperate {
             String name =resultSet.getString("name");
             System.out.println("id=" + id + "--" + "name=" + name );
         }
+        connection.close();
+        statement.close();
+        resultSet.close();
+    }
+    public void Param() throws SQLException {
+
+
+        String sql ="";
+        PreparedStatement preparedStatement=connection.prepareStatement(sql);
     }
     public static void main(String[] args) throws SQLException {
         DataOperate dataOperate=new DataOperate();

@@ -5,39 +5,146 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d03cef9a-a8c0-471d-8fe0-14d304e84fe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/OrderNacosMain84.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/config/ApplicationContextConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/controller/CircleBreakerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9003/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9003/target/classes/com/lyc/springcloud/PaymentMain9003.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9003/target/classes/com/lyc/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/target/classes/com/lyc/springcloud/PaymentMain9004.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/target/classes/com/lyc/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mycloud.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mycloud.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/Oracle/Conn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/Oracle/DataOperate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/Oracle/ojdbc-11.2.0.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/集合/Map/MyCustomMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/360截图167203317011477.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/f1319a8b1f34cf3bf8a910dad75f0cf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/Date/SqlDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/Date/TimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/Excel/ExcelToEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/Excel/XLSXCovertCSVReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/Oracle/InsertBatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/cache/JVMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/cache/ParamsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/common/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/common/SysStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/jvm/reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/lang/ref/ReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/string/HashCode_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/反射/操作类/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/反射/操作类/ReflectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/反射/操作类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/多线程/SpringMVCControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/多线程/threadpool/TreadPool_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/多线程/线程创建/CreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/多线程/锁/InterruptTest_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/多线程/锁/ReentrantLockTest_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/多线程/锁/SynchronizedLearn_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/序列化/ObjectToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/接口和类/InterfaceSummary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/接口和类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/枚举/SeasonEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/注释/ExcelField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/com/hs/clientManager/entity/AppAdFlawDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java基础代码库/src/lombok-1.18.20.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/com/lyc/springcloud/NacosConfigClientMain3377.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/classes/com/lyc/springcloud/controller/ConfigController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/classes/com/lyc/springcloud/OrderNacosMain83.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/classes/com/lyc/springcloud/config/ApplicationContextBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/classes/com/lyc/springcloud/controller/OrderNacosController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/OrderNacosMain84.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/classes/com/lyc/springcloud/controller/CircleBreakerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/com/lyc/springcloud/PaymentMain9001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/classes/com/lyc/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/classes/springcloud/PaymentMain9002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/classes/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9003/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9003/target/classes/com/lyc/springcloud/PaymentMain9003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9003/target/classes/com/lyc/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/target/classes/com/lyc/springcloud/PaymentMain9004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/target/classes/com/lyc/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/lyc/springcloud/entities/CommonResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/lyc/springcloud/entities/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consul-consumer-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consul-consumer-order80/target/classes/com/lyc/springcloud/OrderConsulMain80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consul-consumer-order80/target/classes/com/lyc/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consul-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderConsulController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consul-provider-payment8006/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consul-provider-payment8006/target/classes/com/lyc/springcloud/PaymentMain8006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consul-provider-payment8006/target/classes/com/lyc/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consul-provider-payment8006/target/classes/com/lyc/springcloud/controller/config/ApplicationContextConfig.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-consumer-order80/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/src/main/java/com/lyc/springcloud/controller/OrderHystirxController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/src/main/java/com/lyc/springcloud/controller/OrderHystirxController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderHystirxController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderHystirxController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/target/classes/com/lyc/myrule/MyRibbonRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/target/classes/com/lyc/springcloud/MainApp80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/target/classes/com/lyc/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/target/classes/com/lyc/springcloud/lb/LoadBalancer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/target/classes/com/lyc/springcloud/lb/MyLB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-consumer-order80/target/test-classes/TestInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8001/target/classes/com/lyc/springcloud/PaymentMain8001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8001/target/classes/com/lyc/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8001/target/classes/com/lyc/springcloud/dao/PaymentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8001/target/classes/com/lyc/springcloud/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8001/target/classes/com/lyc/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8001/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8002/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8002/target/classes/com/lyc/springcloud/PaymentMain8002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8002/target/classes/com/lyc/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8002/target/classes/com/lyc/springcloud/dao/PaymentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8002/target/classes/com/lyc/springcloud/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8002/target/classes/com/lyc/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-provider-payment8002/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/lyc/springcloud/EurekaMain7001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/lyc/springcloud/EurekaMain7002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/lyc/springcloud/GateWayMain9527.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/lyc/springcloud/config/GateWayConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/lyc/springcloud/filter/GateWayFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/test-classes/TimeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-consumer-dashboard9001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-consumer-dashboard9001/target/classes/com/lyc/springcloud/HystrixDashboardMain9001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/OrderHystrixMain80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderHystirxController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/service/PaymentFallbackService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-feign-consumer-order80/target/classes/com/lyc/springcloud/service/PaymentHystrixService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-provider-payment8001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-provider-payment8001/target/classes/com/lyc/springcloud/PaymentHystrixMain8001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-provider-payment8001/target/classes/com/lyc/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-hystrix-provider-payment8001/target/classes/com/lyc/springcloud/service/PaymentHystrixService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/target/classes/com/lyc/springcloud/OrderOpenFeignMain80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/target/classes/com/lyc/springcloud/cfgbeans/FeignConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderFeignController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-openfeign-consumer-order80/target/classes/com/lyc/springcloud/serivce/PaymentFeignService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/target/classes/com/lyc/springcloud/StreamMQMain8802.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/target/classes/com/lyc/springcloud/controller/ReceiveMessageListenerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/target/classes/springcloud/StreamMQMain8803.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/target/classes/springcloud/controller/ReceiveMessageListenerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/lyc/springcloud/StreamMQMain8801.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/lyc/springcloud/controller/SendMessageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/lyc/springcloud/service/IMessageProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/lyc/springcloud/service/impl/MessageProviderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-zk-consumer-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-zk-consumer-order80/target/classes/com/lyc/springcloud/OrderZK80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-zk-consumer-order80/target/classes/com/lyc/springcloud/config/ApplicationContextBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-zk-consumer-order80/target/classes/com/lyc/springcloud/controller/OrderZKController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-zk-provider-payment8004/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-zk-provider-payment8004/target/classes/com/lyc/springcloud/PaymentMain8004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-zk-provider-payment8004/target/classes/com/lyc/springcloud/controller/PaymentController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring_Boot/springboot1_holle/src/main/java/com/lyc/Controller/HellowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring_Boot/springboot1_holle/src/main/java/com/lyc/Controller/HellowController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring_Boot/springboot1_holle/src/main/java/com/lyc/HelloWorldMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring_Boot/springboot1_holle/src/main/java/com/lyc/HelloWorldMainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java基础代码库/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/out/production/java基础代码库/LYC/JDBC/MySQL/Jdbc1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/MySQL/Jdbc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/MySQL/Jdbc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/源码分析/ITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/源码分析/ITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/out/production/java基础代码库/LYC/Data/Data1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/out/production/java基础代码库/LYC/集合/Map/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/out/production/java基础代码库/LYC/集合/Map/Traverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/Data/Data1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/Date/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/Oracle/DataOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/JDBC/Oracle/DataOperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/反射/ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/反射/ClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/数据类型/类型范围/NumberRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/数据类型/类型范围/NumberRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/集合/Map/MyCustomMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/集合/Map/MyCustomMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../java基础代码库/src/LYC/集合/Map/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java基础代码库/src/LYC/集合/Map/Traverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,13 +208,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/lyc/springcloud/service" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../workspace/zhongyun_work/shy project/GdbPortal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.41516587" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="com.gitee.ui.GiteeSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -117,11 +225,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\Java\SpringCloud\mycloud\images" />
       <recent name="D:\study\Java\SpringCloud\mycloud\seata-account-service2003\src\main\resources" />
       <recent name="D:\study\Java\SpringCloud\mycloud\seata-account-service2003\src\main\java\com\lyc\springcloud" />
       <recent name="D:\study\Java\SpringCloud\mycloud\seata-storage-service2002\src\main\resources" />
       <recent name="D:\study\Java\SpringCloud\mycloud\seata-storage-service2002\src\main\java\com\lyc\springcloud\domain" />
-      <recent name="D:\study\Java\SpringCloud\mycloud\seata-storage-service2002\src\main\java\com\lyc\springcloud\config" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\study\Java\SpringCloud\mycloud\seata-account-service2003\src\main\resources" />
@@ -161,7 +269,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Spring Boot.OrderNacosMain84">
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lyc.springcloud.test" />
       <module name="seata-storage-service2002" />
@@ -175,21 +283,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in seata-storage-service2002" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="seata-storage-service2002" />
+    <configuration name="All in cloud-alibaba-consumer-nacos-order84" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-consumer-nacos-order84" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
@@ -231,6 +326,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainApp8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-sentinel-service8401" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.MainApp8401" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-alibaba-config-nacos-client3377" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.NacosConfigClientMain3377" />
@@ -255,6 +357,13 @@
     <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-alibaba-consumer-nacos-order83" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.OrderNacosMain83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderNacosMain84" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-consumer-nacos-order84" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.OrderNacosMain84" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -325,6 +434,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PaymentMain9003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-provider-payment9003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.PaymentMain9003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-provider-payment9004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyc.springcloud.PaymentMain9004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SeataAccountMainApp2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="seata-account-service2003" />
       <extension name="coverage">
@@ -387,7 +510,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.test" />
-      <item itemvalue="JUnit.All in seata-storage-service2002" />
+      <item itemvalue="JUnit.All in cloud-alibaba-consumer-nacos-order84" />
       <item itemvalue="Spring Boot.EurekaMain7001" />
       <item itemvalue="Spring Boot.EurekaMain7002" />
       <item itemvalue="Spring Boot.PaymentMain8004" />
@@ -409,17 +532,21 @@
       <item itemvalue="Spring Boot.PaymentMain9001" />
       <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
       <item itemvalue="Spring Boot.OrderNacosMain83" />
+      <item itemvalue="Spring Boot.PaymentMain9003" />
+      <item itemvalue="Spring Boot.PaymentMain9004" />
+      <item itemvalue="Spring Boot.OrderNacosMain84" />
+      <item itemvalue="Spring Boot.MainApp8401" />
       <item itemvalue="Spring Boot.SeataStorageServiceApplication2002" />
       <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
       <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in cloud-alibaba-consumer-nacos-order84" />
         <item itemvalue="Application.test" />
         <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
         <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
         <item itemvalue="Spring Boot.SeataStorageServiceApplication2002" />
-        <item itemvalue="JUnit.All in seata-storage-service2002" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +593,47 @@
       <workItem from="1623314735472" duration="1196000" />
       <workItem from="1623721479485" duration="5999000" />
       <workItem from="1623740544514" duration="3652000" />
-      <workItem from="1623892831134" duration="2547000" />
+      <workItem from="1623892831134" duration="4924000" />
+      <workItem from="1623999070242" duration="614000" />
+      <workItem from="1624244251391" duration="280000" />
+      <workItem from="1624244560467" duration="588000" />
+      <workItem from="1624256648644" duration="582000" />
+      <workItem from="1624259397821" duration="579000" />
+      <workItem from="1624260457029" duration="584000" />
+      <workItem from="1624262968185" duration="592000" />
+      <workItem from="1627376716007" duration="3664000" />
+      <workItem from="1627455908859" duration="14902000" />
+      <workItem from="1627894830912" duration="2168000" />
+      <workItem from="1629447746012" duration="711000" />
+      <workItem from="1629449546618" duration="601000" />
+      <workItem from="1629699750288" duration="3860000" />
+      <workItem from="1629710710682" duration="446000" />
+      <workItem from="1629711536278" duration="293000" />
+      <workItem from="1629768911657" duration="4751000" />
+      <workItem from="1629790356134" duration="551000" />
+      <workItem from="1629791028748" duration="598000" />
+      <workItem from="1629792678622" duration="520000" />
+      <workItem from="1629793688316" duration="226000" />
+      <workItem from="1629794184102" duration="593000" />
+      <workItem from="1629877750427" duration="1608000" />
+      <workItem from="1629880075825" duration="588000" />
+      <workItem from="1629882181478" duration="1208000" />
+      <workItem from="1630310727581" duration="595000" />
+      <workItem from="1630600226491" duration="3000" />
+      <workItem from="1633929320450" duration="4549000" />
+      <workItem from="1634178884913" duration="1397000" />
+      <workItem from="1634432397141" duration="1612000" />
+      <workItem from="1634692767778" duration="593000" />
+      <workItem from="1634696788322" duration="597000" />
+      <workItem from="1634779055142" duration="597000" />
+      <workItem from="1634804811801" duration="624000" />
+      <workItem from="1634865634617" duration="1194000" />
+      <workItem from="1634953216845" duration="589000" />
+      <workItem from="1635315767307" duration="3486000" />
+      <workItem from="1635417566339" duration="280000" />
+      <workItem from="1635418239444" duration="1700000" />
+      <workItem from="1635606660524" duration="1300000" />
+      <workItem from="1635939866417" duration="215000" />
     </task>
     <servers />
   </component>
@@ -537,6 +704,11 @@
           <url>file://$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/src/main/java/com/lyc/springcloud/controller/CircleBreakerController.java</url>
           <line>58</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/src/main/java/com/lyc/springcloud/controller/CircleBreakerController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
